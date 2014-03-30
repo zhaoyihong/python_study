@@ -29,7 +29,6 @@ current_dir =os.getcwd()
 print current_dir
 print os.listdir(current_dir)
 
-
 #网络编程 socket
 import socket
 baiduip = socket.gethostbyname('www.baidu.com')

@@ -11,8 +11,21 @@ x=12
 print x
 y=12.8
 print y
-#打印多个变量
-print x,y
+
+#打印多个变量,逗号可以使print不用换行
+print '-----------------'
+print '一行输出'
+print x,
+print y
+print '多行输出'
+print x
+print y
+print '------------------'
+
+
+
+
+
 #格式化输出  print(format(var,format_modifier))
 #6.3f : 输出占6位,小数点后三位 
 #m.n  m总位数 n小数位数

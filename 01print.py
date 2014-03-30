@@ -12,7 +12,7 @@ print x
 y=12.8
 print y
 
-#打印多个变量,逗号可以使print不用换行
+#打印多个变量,逗号可以使print不用换行 输出数据用空格隔开
 print '-----------------'
 print '一行输出'
 print x,
@@ -22,7 +22,8 @@ print x
 print y
 print '------------------'
 
-
+#也可以写成一行
+print x,y # 12 13.8
 
 
 

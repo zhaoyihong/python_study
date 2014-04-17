@@ -132,22 +132,31 @@ print li4 #[2, 3, 4, 5, 6, 7, 8, 9, 'w', 'w', '.', 'm', 'b', 'a', 'i', 'd', 'u',
 
 '''
 删除元素
-pop()
-删除最后一个
+pop(index)
+pop(...)
+    L.pop([index]) -> item -- remove and return item at index (default last).
+    Raises IndexError if list is empty or index is out of range.
 
+默认删除最后一个
+和前面不同的是 有返回值 返回被删除的元素
 '''
-li5 = li4.pop()
+ret = li4.pop()
 print li4 #[2, 3, 4, 5, 6, 7, 8, 9, 'w', 'w', '.', 'm', 'b', 'a', 'i', 'd', 'u', '.', 'c', 'o']
-print li5 #m
+print ret #m
+
+ret = li4.pop(0)
+print li4 #[3, 4, 5, 6, 7, 8, 9, 'w', 'w', '.', 'm', 'b', 'a', 'i', 'd', 'u', '.', 'c', 'o'] 
+print ret #2
+
 
 '''
 reverse()
 逆序
 '''
 li4.reverse()
-print li4 #['o', 'c', '.', 'u', 'd', 'i', 'a', 'b', 'm', '.', 'w', 'w', 9, 8, 7, 6, 5, 4, 3, 2]
+print li4 #['o', 'c', '.', 'u', 'd', 'i', 'a', 'b', 'm', '.', 'w', 'w', 9, 8, 7, 6, 5, 4, 3]
 #有趣的逆序还可以这样
-print li4[::-1]#[2, 3, 4, 5, 6, 7, 8, 9, 'w', 'w', '.', 'm', 'b', 'a', 'i', 'd', 'u', '.', 'c', 'o']
+print li4[::-1]#[ 3, 4, 5, 6, 7, 8, 9, 'w', 'w', '.', 'm', 'b', 'a', 'i', 'd', 'u', '.', 'c', 'o']
 
 
 

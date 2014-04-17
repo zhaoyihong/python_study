@@ -77,7 +77,7 @@ if __name__ == "__main__":
 		print n
 	else:
 		print 'out a.txt'	
-
+	#n是指每行
 
 	li3 = open('a.txt','r').readlines()
 	fb = open('b.txt','a+')

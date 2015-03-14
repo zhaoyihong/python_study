@@ -37,3 +37,23 @@ print baiduip
 
 
 
+def sumup(nums):
+    sum = 0
+    
+    for i in nums:
+        sum += i
+
+    return sum
+
+print sumup([1,2,3,4,5])
+print sumup({1:"lili",2:"lilei"})
+
+x = 100
+
+def changeX():
+    global x
+    x = 2
+    print "x in the changeX is" , x 
+
+changeX()
+print "x in the global is",x

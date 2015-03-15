@@ -139,7 +139,28 @@
 # 10.读写文本 #
 
 ## read / readline  ##
+
+read(n) 读取n个字节,如果不填写,则读取直到文件尾部
+
+	read(...)
+	    read([size]) -> read at most size bytes, returned as a string.
+	    
+	    If the size argument is negative or omitted, read until EOF is reached.
+	    Notice that when in non-blocking mode, less data than what was requested
+	    may be returned, even if no size parameter was given.
+
+
+readline  读取一行
+
+	readline(...)
+	    readline([size]) -> next line from the file, as a string.
+	    
+	    Retain newline.  A non-negative size argument limits the maximum
+	    number of bytes to return (an incomplete line may be returned then).
+	    Return an empty string at EOF.
 	
+
+代码
 	>>> file=open("a.txt","w")
 	>>> file.write("hi.\nsecond hi.")
 	>>> file.close()
@@ -153,6 +174,12 @@
 	'hi.\nsecond hi.'
 
 ## linecache库 ##
+
+
+linecache.getline(filepath,n) : 返回字符串 读取第n行
+
+linecache.getlines(filepath) : 返回一个列表,读取所有的行
+
 	import linecache
 	
 	>>> file=open("a.txt","w")

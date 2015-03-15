@@ -245,3 +245,41 @@ linecache.getlines(filepath) : 返回一个列表,读取所有的行
 	>>> print a.split(",",1)  # 只允许分割一次
 	['hello', 'world,haha']
 
+
+
+## 14字符串模板应用 ##
+ 
+
+###  字符串模板有哪几种方式  ###
+ 
+
+	#官方推荐用法 format
+	>>> "{} is a {}".format("lilei","boy")
+	'lilei is a boy'
+	#元组法
+	>>> "%s is a %s" % ("hanmeimei","girl")
+	'hanmeimei is a girl'
+	#字典法
+	>>> "%(who)s is a %(gender)s" % {'who':'xiaoming','gender':'boy'}
+	'xiaoming is a boy'
+
+
+
+### 典型应用：  html模板 
+
+
+网页上的标题经常有这样的,我们可以使用模板来生成内容
+
+新闻首页 > 新闻中心 > 国内新闻 > 正文
+
+
+
+	>>>title="{} > {} > {} > {}"
+	
+	>>> print  title.format("新闻首页","新闻中心","国内新闻","正文")
+	
+	新闻首页 > 新闻中心 > 国内新闻 > 正文
+
+
+
+ 

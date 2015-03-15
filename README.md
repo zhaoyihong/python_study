@@ -1,4 +1,1 @@
-python_study
-============
-
-python study
+# 学习python的笔记和练习 #

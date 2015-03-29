@@ -1,0 +1,15 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+a	test.py	/^    a=3$/;"	v	language:Python
+a	test.py	/^a = [1,2,3,4,5]$/;"	v	language:Python
+content	test.py	/^    content = d.read()$/;"	v	language:Python
+d	test.py	/^    d = urllib.open(sth_url)$/;"	v	language:Python
+exc	test.py	/^    exc = sys.exc_info()$/;"	v	language:Python
+formater	test.py	/^formater = logging.Formatter('%(asctime)s %(levelname)s %(message)s') #设置日志格式$/;"	v	language:Python
+hdlr	test.py	/^hdlr = logging.FileHandler('testlog.txt') #创建存放日志的文件句柄$/;"	v	language:Python
+logger	test.py	/^logger = logging.getLogger() #创建一个logging对象$/;"	v	language:Python
+sth_url	test.py	/^sth_url = "http:\/\/www.baidu.com"$/;"	v	language:Python

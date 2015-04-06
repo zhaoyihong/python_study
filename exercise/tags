@@ -5,29 +5,43 @@
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.9~svn20110310	//
 cnt	twitter.py	/^cnt = 0$/;"	v	language:Python
+cost1	thread.py	/^def cost1():$/;"	f	language:Python	access:public
 current_len	twitter.py	/^    current_len =  len(info["content"])$/;"	v	language:Python
 data_keys	twitter.py	/^data_keys = ('bid', 'uid', 'username', 'v_class', 'content', 'img', 'created_at', 'source', 'rt_num', 'cm_num', 'rt_uid', 'rt_username', 'rt_v_class', 'rt_content', 'rt_img', 'src_rt_num', 'src_cm_num', 'gender', 'rt_bid', 'location', 'rt_mid', 'mid', 'lat', 'lon', 'lbs_type', 'lbs_title', 'poiid', 'links', 'hashtags', 'ats', 'rt_links', 'rt_hashtags', 'rt_ats', 'v_url', 'rt_v_url')$/;"	v	language:Python
 day	twitter.py	/^    day = info["created_at"].split()[0]$/;"	v	language:Python
 day_user_dict	twitter.py	/^day_user_dict = { x:dict() for x in time_days }$/;"	v	language:Python
 file	twitter.py	/^file = open("twitter数据挖掘片段.txt","r")$/;"	v	language:Python
-get_num	test.py	/^def get_num(*nums):$/;"	f	language:Python	access:public
-get_page	test.py	/^def get_page(url):$/;"	f	language:Python	access:public
+get_dir	fun02.py	/^def get_dir(path):$/;"	f	language:Python	access:public
+get_doc	fun01.py	/^def get_doc(module):$/;"	f	language:Python	access:public
+get_files	fun01.py	/^def get_files(dirpath):$/;"	f	language:Python	access:public
+get_num	fun02.py	/^def get_num(*nums):$/;"	f	language:Python	access:public
+get_page	fun02.py	/^def get_page(url):$/;"	f	language:Python	access:public
+get_text	fun01.py	/^def get_text(f):$/;"	f	language:Python	access:public
+get_url_title	thread.py	/^def get_url_title(url):$/;"	f	language:Python	access:public
 hour_cnt_list	twitter.py	/^hour_cnt_list = [ (x,hours_list.count(x)) for x in hours_set ]$/;"	v	language:Python
 hours_cnt_dict	twitter.py	/^hours_cnt_dict = { x:hours_list.count(x) for x in hours_set  }$/;"	v	language:Python
 hours_cnt_list	twitter.py	/^hours_cnt_list = hours_cnt_dict.items()$/;"	v	language:Python
 hours_list	twitter.py	/^hours_list = [ x.split(' ')[1].split(':')[0] for x in time_list if len(x)>0 ]$/;"	v	language:Python
 hours_list	twitter.py	/^hours_list = [x["created_at"].split()[1].split(':')[0] for x in  info_20121103_list]$/;"	v	language:Python
 hours_set	twitter.py	/^hours_set = set(hours_list)$/;"	v	language:Python
+info	thread.py	/^info = [1,2,3,4,55,233]$/;"	v	language:Python
 info_20121103_list	twitter.py	/^info_20121103_list = filter(lambda x : x["created_at"].startswith("2012-11-03"),info_list)$/;"	v	language:Python
 info_dict	twitter.py	/^    info_dict = { k:line_list[data_keys.index(k)] for k in data_keys }$/;"	v	language:Python
 info_list	twitter.py	/^info_list = []$/;"	v	language:Python
 line_list	twitter.py	/^    line_list = line.split('","')$/;"	v	language:Python
 list_2012_11	twitter.py	/^list_2012_11 = filter(lambda x:x.startswith('2012-11'),time_list)$/;"	v	language:Python
+longest_str	fun01.py	/^def longest_str(*strs):$/;"	f	language:Python	access:public
+max_and_min	fun01.py	/^def max_and_min(*ints):$/;"	f	language:Python	access:public
 max_len	twitter.py	/^        max_len = current_len$/;"	v	language:Python
 max_len	twitter.py	/^max_len = 0$/;"	v	language:Python
+max_num	fun02.py	/^def max_num(*lists):$/;"	f	language:Python	access:public
 max_uid	twitter.py	/^max_uid = list()$/;"	v	language:Python
+mlock	thread.py	/^mlock = threading.Lock()$/;"	v	language:Python
+money	thread.py	/^money = 500$/;"	v	language:Python
 most_uid	twitter.py	/^def most_uid(*kargs):$/;"	f	language:Python	access:public
 most_users_of_day	twitter.py	/^most_users_of_day = {}$/;"	v	language:Python
+printInt	thread.py	/^def printInt(num):$/;"	f	language:Python	access:public
+queue	thread.py	/^queue = Queue.Queue(3)$/;"	v	language:Python
 rt_uid_cnt_dict	twitter.py	/^rt_uid_cnt_dict = { x:rt_uids_list.count(x) for x in rt_uids_set}$/;"	v	language:Python
 rt_uids_cnt_list	twitter.py	/^rt_uids_cnt_list = rt_uid_cnt_dict.items()$/;"	v	language:Python
 rt_uids_list	twitter.py	/^rt_uids_list = [ x["rt_uid"] for x in info_list if len(x["rt_uid"]) > 0 ]$/;"	v	language:Python
@@ -35,15 +49,18 @@ rt_uids_set	twitter.py	/^rt_uids_set = set(rt_uids_list)$/;"	v	language:Python
 sources_list	twitter.py	/^sources_list = [x["source"] for x in info_list ]$/;"	v	language:Python
 sources_set	twitter.py	/^sources_set = set(sources_list)$/;"	v	language:Python
 sources_tuple_list	twitter.py	/^sources_tuple_list = [(x,sources_list.count(x)) for x in sources_set ]$/;"	v	language:Python
-str1	test.py	/^str1 = string("hello")$/;"	v	language:Python
+th	thread.py	/^    th = threading.Thread(target=get_url_title,args=[url])$/;"	v	language:Python
+threads_list	thread.py	/^threads_list = list()$/;"	v	language:Python
 time_days	twitter.py	/^time_days = [ x.split(' ')[0] for x in time_list if len(x)>0 ]$/;"	v	language:Python
 time_days	twitter.py	/^time_days = list(set( time_days ))$/;"	v	language:Python
 time_list	twitter.py	/^time_list = [ x["created_at"] for x in info_list]$/;"	v	language:Python
+tlist	thread.py	/^tlist = list()$/;"	v	language:Python
 uid	twitter.py	/^    uid = info["uid"]$/;"	v	language:Python
 uid_set	twitter.py	/^uid_set = set( [ x["uid"] for x in info_list ])$/;"	v	language:Python
 uid_set	twitter.py	/^uid_set = set([x["uid"] for x in info_list ])$/;"	v	language:Python
 uid_vurl_dict	twitter.py	/^uid_vurl_dict = { x:0 for x in uid_set }$/;"	v	language:Python
 uid_vurl_list	twitter.py	/^uid_vurl_list = uid_vurl_dict.items()$/;"	v	language:Python
+urlinfo	thread.py	/^urlinfo = ['http:\/\/www.renren.com','http:\/\/www.baidu.com','http:\/\/www.so.com','http:\/\/www.sohu.com','http:\/\/www.163.com','http:\/\/www.sina.com']$/;"	v	language:Python
 user	twitter.py	/^    user = info["username"]$/;"	v	language:Python
 user_11clock_set	twitter.py	/^user_11clock_set = set(users_11clock)$/;"	v	language:Python
 user_tupel_list	twitter.py	/^    user_tupel_list = users.items()$/;"	v	language:Python
@@ -51,3 +68,4 @@ username_list	twitter.py	/^username_list = list(set([x["username"] for x in info
 users_11clock	twitter.py	/^users_11clock = [ x["username"] for x in info_list if x["created_at"].split()[1].split(':')[0] == "11" ]$/;"	v	language:Python
 users_cnt_dict	twitter.py	/^users_cnt_dict = { x:users_11clock.count(x) for x in user_11clock_set }$/;"	v	language:Python
 users_cnt_list	twitter.py	/^users_cnt_list = users_cnt_dict.items()$/;"	v	language:Python
+wait_th	thread.py	/^        wait_th = queue.get()$/;"	v	language:Python

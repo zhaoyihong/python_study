@@ -1,0 +1,19 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+beg	test2.py	/^beg = time.time()$/;"	v	language:Python
+fun	test3.py	/^def fun():$/;"	f	language:Python	access:public
+funa	test2.py	/^def funa():$/;"	f	language:Python	access:public
+funb	test2.py	/^def funb():$/;"	f	language:Python	access:public
+func	test4.py	/^def func():$/;"	f	language:Python	access:public
+m	test4.py	/^m = func()$/;"	v	language:Python
+mlock	test3.py	/^mlock = threading.RLock() #锁对象$/;"	v	language:Python
+num	test.py	/^num = 0$/;"	v	language:Python
+num	test3.py	/^num=0$/;"	v	language:Python
+ta	test2.py	/^ta = threading.Thread(target=funa)$/;"	v	language:Python
+tb	test2.py	/^tb = threading.Thread(target=funb)$/;"	v	language:Python
+test	test.py	/^def test():$/;"	f	language:Python	access:public
+ts	test.py	/^ts = []$/;"	v	language:Python

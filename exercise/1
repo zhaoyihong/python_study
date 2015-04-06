@@ -1,0 +1,1798 @@
+正在获取网页...
+正在解析内容...
+内容解析完毕
+正在输出内容
+[('"http://money.163.com/15/0403/10/AM95J35M002551G6.html"', '\xbb\xaa\xce\xaa\xd2\xaa\xd3\xf6\xc9\xcf\xca\xc2\xc1\xcb:\xcb\xad\xbd\xd3\xb0\xe0\xb3\xc9\xc4\xd1\xcc\xe2', '2015-04-03 10:19:22'), ('"http://money.163.com/15/0403/10/AM94T9SQ002551G6.html"', '\xd6\xc7\xc4\xdc\xb5\xe7\xca\xd3\xb5\xc4\xc4\xbf\xb1\xea\xca\xc7\xa3\xba\xba\xc3\xcd\xe6', '2015-04-03 10:07:28'), ('"http://money.163.com/15/0403/09/AM93PAPC00253G87.html"', '\xd0\xa1\xc3\xd7\xc0\xeb\xca\xc0\xbd\xe7\xb5\xda\xd2\xbb\xb5\xc4\xbb\xaa\xce\xaa\xd3\xd0\xb6\xe0\xd4\xb6', '2015-04-03 09:47:49'), ('"http://money.163.com/15/0402/17/AM7CHQ70002551G6.html"', '\xc2\xf4\xbf\xb4\xbf\xb4\xca\xc7\xd1\xb8\xc0\xd7\xb3\xd9\xc0\xb4\xb5\xc4\xd7\xd4\xce\xd2\xbe\xc8\xca\xea?', '2015-04-02 17:42:31'), ('"http://money.163.com/15/0402/17/AM7BPPEQ002551G6.html"', '\xc0\xd7\xbe\xfc\xd5\xfd\xd4\xda\xd7\xf6\xd6\xd0\xb9\xfa\xa1\xb0\xcb\xf7\xc4\xe1\xc3\xce\xa1\xb1?', '2015-04-02 17:29:24'), ('"http://money.163.com/15/0402/09/AM6EQBBU002551G6.html"', '\xbb\xaa\xce\xaa\xce\xaa\xca\xb2\xc3\xb4\xc4\xdc\xb3\xc9\xc8\xab\xc7\xf2\xb5\xda\xd2\xbb\xa3\xbf', '2015-04-02 09:02:54'), ('"http://money.163.com/15/0401/17/AM4PKQN9002551G6.html"', '\xce\xc4\xbb\xaf\xb2\xfa\xd2\xb5\xb3\xfd\xc9\xdd\xb3\xde\xc6\xb7\xbe\xcd\xca\xa3\xb2\xb0\xc0\xb4\xc6\xb7', '2015-04-01 17:33:38'), ('"http://money.163.com/15/0331/11/AM1IBL06002551G6.html"', '\xb9\xfd\xb6\xc8\xb3\xb4\xd7\xf7\xa3\xa1\xd0\xa1\xd0\xc4"\xbb\xa5\xc1\xaa\xcd\xf8+"\xc5\xdd\xc4\xad', '2015-03-31 11:28:34'), ('"http://money.163.com/15/0330/11/ALV151DA002551G6.html"', '\xc6\xce\xcc\xef\xd5\xbd\xb0\xd9\xb6\xc8\xa3\xba\xa1\xb0\xbb\xa5\xc1\xaa\xcd\xf8+\xa1\xb1\xb1\xd7\xb6\xcb&#8205;', '2015-03-30 11:49:23'), ('"http://money.163.com/15/0330/11/ALUUSQJ7002551G6.html"', '\xbb\xa5\xc1\xaa\xcd\xf8\xb9\xab\xcb\xbe"\xd4\xec\xb3\xb5"\xb5\xc4\xd5\xe6\xca\xb5\xc2\xdf\xbc\xad', '2015-03-30 11:09:56'), ('"http://money.163.com/15/0330/11/ALUUGBV6002551G6.html"', '\xd1\xeb\xc6\xf3\xcf\xde\xd0\xbd\xb1\xf0\xc4\xc3\xd6\xd0\xd0\xd0\xb8\xdf\xb9\xdc\xb4\xc7\xd6\xb0\xcb\xb5\xca\xc2', '2015-03-30 11:03:08'), ('"http://money.163.com/15/0330/01/ALTV4QKE002551G6.html"', '\xc2\xee\xc6\xbb\xb9\xfb\xca\xc7\xbb\xc6\xbb\xe8\xb5\xdb\xb9\xfa \xbc\xd6\xd4\xbe\xcd\xa4\xd0\xc4\xd0\xe9?', '2015-03-30 01:55:04'), ('"http://money.163.com/15/0328/14/ALQ6SJ46002551G6.html"', '\xd6\xd0\xb9\xfa\xca\xd6\xbb\xfa\xc6\xb7\xc5\xc6\xd4\xda\xd3\xa1\xb6\xc8\xbb\xe1\xb3\xc9\xb9\xa6\xc2\xf0\xa3\xbf', '2015-03-28 14:53:25'), ('"http://money.163.com/15/0328/14/ALQ6DHDU002551G6.html"', '\xc6\xce\xcc\xef\xcf\xb5\xbf\xaa\xd5\xbd\xb0\xd9\xb6\xc8\xcb\xad\xb6\xaf\xcb\xad\xb5\xc4\xc4\xcc\xc0\xd2\xa3\xbf', '2015-03-28 14:45:12'), ('"http://money.163.com/15/0328/14/ALQ63RGN002551G6.html"', '\xb5\xbd\xb5\xd7\xca\xb2\xc3\xb4\xca\xc7\xa1\xb0\xbb\xa5\xc1\xaa\xcd\xf8+\xa1\xb1&#8205;\xa3\xbf', '2015-03-28 14:39:55')]
+正在获取网页...
+正在解析内容...
+正在输出内容
+[{'href': u'http://money.163.com/15/0403/10/AM95J35M002551G6.html', 'time': u'2015-04-03 10:19:22', 'title': u'\u534e\u4e3a\u8981\u9047\u4e0a\u4e8b\u4e86:\u8c01\u63a5\u73ed\u6210\u96be\u9898'}, {'href': u'http://money.163.com/15/0403/10/AM94T9SQ002551G6.html', 'time': u'2015-04-03 10:07:28', 'title': u'\u667a\u80fd\u7535\u89c6\u7684\u76ee\u6807\u662f\uff1a\u597d\u73a9'}, {'href': u'http://money.163.com/15/0403/09/AM93PAPC00253G87.html', 'time': u'2015-04-03 09:47:49', 'title': u'\u5c0f\u7c73\u79bb\u4e16\u754c\u7b2c\u4e00\u7684\u534e\u4e3a\u6709\u591a\u8fdc'}, {'href': u'http://money.163.com/15/0402/17/AM7CHQ70002551G6.html', 'time': u'2015-04-02 17:42:31', 'title': u'\u5356\u770b\u770b\u662f\u8fc5\u96f7\u8fdf\u6765\u7684\u81ea\u6211\u6551\u8d4e?'}, {'href': u'http://money.163.com/15/0402/17/AM7BPPEQ002551G6.html', 'time': u'2015-04-02 17:29:24', 'title': u'\u96f7\u519b\u6b63\u5728\u505a\u4e2d\u56fd\u201c\u7d22\u5c3c\u68a6\u201d?'}, {'href': u'http://money.163.com/15/0402/09/AM6EQBBU002551G6.html', 'time': u'2015-04-02 09:02:54', 'title': u'\u534e\u4e3a\u4e3a\u4ec0\u4e48\u80fd\u6210\u5168\u7403\u7b2c\u4e00\uff1f'}, {'href': u'http://money.163.com/15/0401/17/AM4PKQN9002551G6.html', 'time': u'2015-04-01 17:33:38', 'title': u'\u6587\u5316\u4ea7\u4e1a\u9664\u5962\u4f88\u54c1\u5c31\u5269\u8236\u6765\u54c1'}, {'href': u'http://money.163.com/15/0331/11/AM1IBL06002551G6.html', 'time': u'2015-03-31 11:28:34', 'title': u'\u8fc7\u5ea6\u7092\u4f5c\uff01\u5c0f\u5fc3"\u4e92\u8054\u7f51+"\u6ce1\u6cab'}, {'href': u'http://money.163.com/15/0330/11/ALV151DA002551G6.html', 'time': u'2015-03-30 11:49:23', 'title': u'\u8386\u7530\u6218\u767e\u5ea6\uff1a\u201c\u4e92\u8054\u7f51+\u201d\u5f0a\u7aef\u200d'}, {'href': u'http://money.163.com/15/0330/11/ALUUSQJ7002551G6.html', 'time': u'2015-03-30 11:09:56', 'title': u'\u4e92\u8054\u7f51\u516c\u53f8"\u9020\u8f66"\u7684\u771f\u5b9e\u903b\u8f91'}, {'href': u'http://money.163.com/15/0330/11/ALUUGBV6002551G6.html', 'time': u'2015-03-30 11:03:08', 'title': u'\u592e\u4f01\u9650\u85aa\u522b\u62ff\u4e2d\u884c\u9ad8\u7ba1\u8f9e\u804c\u8bf4\u4e8b'}, {'href': u'http://money.163.com/15/0330/01/ALTV4QKE002551G6.html', 'time': u'2015-03-30 01:55:04', 'title': u'\u9a82\u82f9\u679c\u662f\u9ec4\u660f\u5e1d\u56fd \u8d3e\u8dc3\u4ead\u5fc3\u865a?'}, {'href': u'http://money.163.com/15/0328/14/ALQ6SJ46002551G6.html', 'time': u'2015-03-28 14:53:25', 'title': u'\u4e2d\u56fd\u624b\u673a\u54c1\u724c\u5728\u5370\u5ea6\u4f1a\u6210\u529f\u5417\uff1f'}, {'href': u'http://money.163.com/15/0328/14/ALQ6DHDU002551G6.html', 'time': u'2015-03-28 14:45:12', 'title': u'\u8386\u7530\u7cfb\u5f00\u6218\u767e\u5ea6\u8c01\u52a8\u8c01\u7684\u5976\u916a\uff1f'}, {'href': u'http://money.163.com/15/0328/14/ALQ63RGN002551G6.html', 'time': u'2015-03-28 14:39:55', 'title': u'\u5230\u5e95\u4ec0\u4e48\u662f\u201c\u4e92\u8054\u7f51+\u201d\u200d\uff1f'}]
+page: 1 1
+<!DOCTYPE html>
+
+<html>
+<head>
+<script>
+window.jdpts={};jdpts._st=new Date().getTime();window.pageConfig={
+	compatible: true,
+	searchType: 0,
+	verticalMessage: false,
+	queryParam: {
+		c1: '',
+		c2: '',
+		c3: '',
+		brand: '66',
+		price: '',
+		keyword: 'aaa',
+		page: '1'
+	}
+};
+window.SEARCH = {
+	enable_presale: true,
+	is_correct_hash: function(e){var a=["keyword","brand_id"];for(var c=0,b=a.length;c<b;c++){var d=new RegExp("(^|\\?|&)"+a[c]+"=([^&]*)(\\s|&|$)");if(d.test(e)){return true}}return false},
+	get_real_hash: function(){var a=window.location.hash.substr(1);if(a&&$.browser.mozilla){return location.href.substr(location.href.indexOf("#")+1)}else{return a}}
+};
+window.searchUnit = {
+	resizeOnebox: function(a,b){"undefined"!=typeof a&&$("string"==typeof b?"#J_oneBoxFrame_"+b:"#virtualWareIFrame").css("height",parseInt(a)+10)},
+	resizeShopbox: function(a,b){if(new Date().getTime()-this.loadingStart>60000)return false;if(a==1||a==2){$("#shopboxIFrame").css("height",146).show()}else{if(a==3){$("#shopboxIFrame").css("height",80).show()}}typeof(b)=="string"&&(new Image().src=b)}
+};
+window.QUERY_KEYWORD='aaa';
+window.REAL_KEYWORD='aaa';
+window._is_extranet=2;
+</script>
+<meta content="max-age=300" http-equiv="Cache-Control"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<title>aaa - 商品搜索 - 京东</title><meta content="aaa,京东aaa" name="Keywords"/><meta content="在京东中找到了74件aaa的类似商品，其中包含了“流行男鞋”，“时尚女鞋”，“厨房电器”，“体育用品”等类型的aaa的商品。" name="description"/><link href="//search.jd.com" rel="dns-prefetch"/><link href="//item.jd.com" rel="dns-prefetch"/><link href="//list.jd.com" rel="dns-prefetch"/><link href="//p.3.cn" rel="dns-prefetch"/><link href="//misc.360buyimg.com" rel="dns-prefetch"/><link href="//nfa.jd.com" rel="dns-prefetch"/><link href="//d.jd.com" rel="dns-prefetch"/><link href="//img12.360buyimg.com" rel="dns-prefetch"/><link href="//img13.360buyimg.com" rel="dns-prefetch"/><link href="//static.360buyimg.com" rel="dns-prefetch"/><link href="//csc.jd.com" rel="dns-prefetch"/><link href="//mercury.jd.com" rel="dns-prefetch"/><link href="//x.jd.com" rel="dns-prefetch"/><link href="//wl.jd.com" rel="dns-prefetch"/><link href="http://misc.360buyimg.com/lib/skin/2013/base.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://misc.360buyimg.com/201007/skin/df/psearch20131008.css?v=20150326" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://misc.360buyimg.com/201007/skin/df/psearch.onebox.css?v=20150326" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://misc.360buyimg.com/contrast/skin/2012/pop_compare.css?v=20150326" media="all" rel="stylesheet" type="text/css"/>
+<script src="http://misc.360buyimg.com/lib/js/e/jquery-1.2.6.pack.js" type="text/javascript"></script>
+<script>
+(function(w, s){
+	var _hash = s.get_real_hash();
+	if ( s.is_correct_hash(_hash) ) {
+        w.location.href = w.location.pathname+'?'+_hash;
+		return false;
+	}
+})(window, SEARCH);
+</script>
+</head>
+<body>
+<script charset="gb2312" src="http://misc.360buyimg.com/lib/js/2012/base-2011.js" type="text/javascript"></script>
+<div id="shortcut-2013">
+<div class="w">
+<ul class="fl lh">
+<li class="fore1 ld"><b></b><a href="javascript:addToFavorite()" rel="nofollow">收藏京东</a></li>
+</ul>
+<ul class="fr lh">
+<li class="fore1" id="loginbar">您好！欢迎来到京东！<a href="javascript:login()">[登录]</a> <a href="javascript:regist()">[免费注册]</a></li>
+<li class="fore2 ld">
+<s></s>
+<a href="http://order.jd.com/center/list.action" rel="nofollow">我的订单</a>
+</li>
+<li class="fore2-1 ld" id="jd-vip">
+<i></i>
+<s></s>
+<a href="http://vip.jd.com" rel="nofollow" target="_blank">会员俱乐部</a>
+</li>
+<li class="fore3 ld menu" data-widget="dropdown" id="app-jd">
+<s></s><i></i><span class="outline"></span><span class="blank"></span>
+<a href="http://app.jd.com/" target="_blank">手机京东</a><b></b>
+</li>
+<li class="fore4 ld menu" data-widget="dropdown" id="biz-service">
+<s></s>
+<span class="outline"></span>
+<span class="blank"></span>
+				客户服务
+				<b></b>
+<div class="dd">
+<div><a href="http://help.jd.com/index.html" target="_blank">帮助中心</a></div>
+<div><a href="http://myjd.jd.com/repair/orderlist.action" rel="nofollow" target="_blank">售后服务</a></div>
+<div><a href="http://chat.jd.com/jdchat/custom.action" rel="nofollow" target="_blank">在线客服</a></div>
+<div><a href="http://myjd.jd.com/opinion/list.action" rel="nofollow" target="_blank">投诉中心</a></div>
+<div><a href="http://www.jd.com/contact/service.html" target="_blank">客服邮箱</a></div>
+</div>
+</li>
+<li class="fore5 ld menu" data-widget="dropdown" id="site-nav">
+<s></s>
+<span class="outline"></span>
+<span class="blank"></span>
+				网站导航
+				<b></b>
+<div class="dd lh">
+<dl class="item fore1">
+<dt>特色栏目</dt>
+<dd>
+<div><a href="http://mobile.jd.com/index.do" target="_blank">京东通信</a></div>
+<div><a href="http://jdstar.jd.com/" target="_blank">校园之星</a></div>
+<div><a href="http://my.jd.com/personal/guess.html" target="_blank">为我推荐</a></div>
+<div><a href="http://shipingou.jd.com/" target="_blank">视频购物</a></div>
+<div><a href="http://club.jd.com/" target="_blank">京东社区</a></div>
+<div><a href="http://read.jd.com/" target="_blank">在线读书</a></div>
+<div><a href="http://diy.jd.com/" target="_blank">装机大师</a></div>
+<div><a href="http://giftcard.jd.com/market/index.action" target="_blank">京东E卡</a></div>
+<div><a href="http://channel.jd.com/jiazhuang.html" target="_blank">家装城</a></div>
+<div><a href="http://dapeigou.jd.com/" target="_blank">搭配购</a></div>
+<div><a href="http://xihuan.jd.com/" target="_blank">我喜欢</a></div>
+</dd>
+</dl>
+<dl class="item fore2">
+<dt>企业服务</dt>
+<dd>
+<div><a href="http://giftcard.jd.com/company/index" target="_blank">企业客户</a></div>
+<div><a href="http://sale.jd.com/p10997.html" target="_blank">办公直通车</a></div>
+</dd>
+</dl>
+<dl class="item fore3">
+<dt>旗下网站</dt>
+<dd>
+<div><a href="http://en.jd.com/" target="_blank">English Site</a></div>
+</dd>
+</dl>
+</div>
+</li>
+</ul>
+<span class="clr"></span>
+</div>
+</div><!--shortcut end--><div id="o-header-2013">
+<div class="w" id="header-2013">
+<div class="ld" id="logo-2013"><a hidefocus="true" href="http://www.jd.com/"><b></b><img alt="京东" height="60" src="http://misc.360buyimg.com/lib/img/e/logo-201305.png" width="270"/></a></div>
+<!--logo end-->
+<div id="search-2013">
+<div class="i-search ld">
+<ul class="hide" id="shelper">
+</ul>
+<div class="form">
+<input accesskey="s" autocomplete="off" class="text" id="key" onkeydown="javascript:if(event.keyCode==13) search('key');" type="text">
+<input class="button" onclick="search('key');return false;" type="button" value="搜索">
+</input></input></div>
+</div>
+<div id="hotwords"></div>
+</div>
+<!--search end-->
+<div id="my360buy-2013">
+<dl>
+<dt class="ld"><s></s><a href="http://home.jd.com/">我的京东</a><b></b></dt>
+<dd>
+<div class="loading-style1"><b></b>加载中，请稍候...</div>
+</dd>
+</dl>
+</div>
+<!--my360buy end-->
+<div id="settleup-2013">
+<dl>
+<dt class="ld"><s></s><span class="shopping"><span id="shopping-amount"></span></span><a href="http://cart.jd.com/cart/cart.html" id="settleup-url">去购物车结算</a> <b></b> </dt>
+<dd>
+<div class="prompt">
+<div class="loading-style1"><b></b>加载中，请稍候...</div>
+</div>
+</dd>
+</dl>
+</div>
+<!--settleup end-->
+</div>
+<!--header end-->
+<div class="w">
+<div id="nav-2013">
+<div id="categorys-2013">
+<div class="mt ld">
+<h2><a href="http://www.jd.com/allSort.aspx">全部商品分类<b></b></a></h2>
+</div>
+<div class="mc" id="_JD_ALLSORT"></div>
+</div>
+<div id="treasure"></div>
+<ul id="navitems-2013">
+<li class="fore1" id="nav-home"><a href="http://www.jd.com/">首页</a></li>
+<li class="fore2" id="nav-fashion"><a href="http://fashion.jd.com/">服装城</a></li>
+<li class="fore3" id="nav-chaoshi"><a href="http://channel.jd.com/chaoshi.html">食品</a></li>
+<li class="fore4" id="nav-tuan"><a href="http://tuan.jd.com/" target="_blank">团购</a></li>
+<li class="fore5" id="nav-auction"><a href="http://auction.jd.com/">夺宝岛</a></li>
+<li class="fore6" id="nav-shan"><a href="http://red.jd.com/">闪购</a></li>
+<li class="fore7" id="nav-jinrong"><a href="http://jr.jd.com/" target="_blank">金融</a></li>
+</ul>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+(function(){if(pageConfig.navId){var object=document.getElementById("nav-"+pageConfig.navId);if(object)object.className+=" curr";}})();
+</script>
+<!-- header end --><div class="w main">
+<div class="crumb">全部结果 &gt; <strong>"aaa"</strong></div>
+<div class="left">
+<div class="m" id="refilter">
+<div class="mt">
+<h2>所有类目</h2>
+</div>
+<div class="mc">
+<div class="item fore hover">
+<h3>
+<b></b>
+<a href="#keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;ev=exbrand_AAA%40&amp;cid2=11730&amp;click=2-11730" id="category-2-11730" onclick="searchlog(1,11730,0,51)">流行男鞋</a>
+</h3>
+<ul>
+<li>
+<s></s>
+<a href="#keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;ev=exbrand_AAA%40&amp;cid3=6907&amp;click=3-6907" id="category-3-6907" onclick="searchlog(1,6907,0,51)">商务休闲鞋</a>
+</li>
+<li>
+<s></s>
+<a href="#keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;ev=exbrand_AAA%40&amp;cid3=6908&amp;click=3-6908" id="category-3-6908" onclick="searchlog(1,6908,1,51)">休闲鞋</a>
+</li>
+<li style="display:none;">
+<s class="tree-last"></s>
+<a href="#keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;ev=exbrand_AAA%40&amp;cid3=6909&amp;click=3-6909" id="category-3-6909" onclick="searchlog(1,6909,2,51)">凉鞋/沙滩鞋</a>
+</li>
+</ul>
+<div class="show-more"><a href="javascript:;" onclick="searchlog(1,0,0,19)">查看更多<i></i></a></div></div>
+<div class="item hover">
+<h3>
+<b></b>
+<a href="#keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;ev=exbrand_AAA%40&amp;cid2=11731&amp;click=2-11731" id="category-2-11731" onclick="searchlog(1,11731,1,51)">时尚女鞋</a>
+</h3>
+<ul>
+<li>
+<s></s>
+<a href="#keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;ev=exbrand_AAA%40&amp;cid3=6914&amp;click=3-6914" id="category-3-6914" onclick="searchlog(1,6914,10000,51)">单鞋</a>
+</li>
+<li>
+<s class="tree-last"></s>
+<a href="#keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;ev=exbrand_AAA%40&amp;cid3=9778&amp;click=3-9778" id="category-3-9778" onclick="searchlog(1,9778,10001,51)">妈妈鞋</a>
+</li>
+</ul>
+</div>
+<div class="item hover">
+<h3>
+<b></b>
+<a href="#keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;ev=exbrand_AAA%40&amp;cid2=752&amp;click=2-752" id="category-2-752" onclick="searchlog(1,752,2,51)">厨房电器</a>
+</h3>
+<ul>
+<li>
+<s class="tree-last"></s>
+<a href="#keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;ev=exbrand_AAA%40&amp;cid3=761&amp;click=3-761" id="category-3-761" onclick="searchlog(1,761,20000,51)">咖啡机</a>
+</li>
+</ul>
+</div>
+<div class="item">
+<h3>
+<b></b>
+<a href="#keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;ev=exbrand_AAA%40&amp;cid2=1466&amp;click=2-1466" id="category-2-1466" onclick="searchlog(1,1466,3,51)">体育用品</a>
+</h3>
+<ul>
+<li style="display:none;">
+<s class="tree-last"></s>
+<a href="#keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;ev=exbrand_AAA%40&amp;cid3=5155&amp;click=3-5155" id="category-3-5155" onclick="searchlog(1,5155,30000,51)">棋牌麻将</a>
+</li>
+</ul>
+<div class="show-more hide"><a href="javascript:;" onclick="searchlog(1,0,3,19)">查看更多<i></i></a></div></div>
+<div class="item">
+<h3>
+<b></b>
+<a href="#keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;ev=exbrand_AAA%40&amp;cid2=1625&amp;click=2-1625" id="category-2-1625" onclick="searchlog(1,1625,4,51)">清洁用品</a>
+</h3>
+<ul>
+<li style="display:none;">
+<s class="tree-last"></s>
+<a href="#keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;ev=exbrand_AAA%40&amp;cid3=1670&amp;click=3-1670" id="category-3-1670" onclick="searchlog(1,1670,40000,51)">皮具护理</a>
+</li>
+</ul>
+<div class="show-more hide"><a href="javascript:;" onclick="searchlog(1,0,4,19)">查看更多<i></i></a></div></div>
+<script>
+SEARCH.top_url = 'search?keyword=aaa&enc=utf-8&qrst=1&rt=1&stop=1&sttr=1';
+SEARCH.list_category = '';
+SEARCH.click = '';
+SEARCH.cid_style = function(){if(this.click){var b=$("#category-"+this.click),a=this.click.indexOf("2-")==0;if(a){b.attr("class","curr").parent().parent().addClass("hover").show()}else{b.parent().attr("class","curr").parents('div.item').addClass('hover').show().find("h3 a").attr("class","curr")}}}
+</script>
+</div>
+</div>
+<div class="m m0 hide" id="ad_left" reco_id="6"></div>
+<div class="promo-pic-ad hide">
+<h5 class="hd">商家精选</h5>
+<div class="bd" id="xjd_left_576"></div>
+</div>
+</div>
+<div class="right-extra">
+<iframe frameborder="0" height="0" id="shopboxIFrame" marginheight="0" marginwidth="0" scrolling="no" src="http://nfa.jd.com/ad_search_shop?keyword=aaa&amp;shop_id=24105" style="display:none;" width="100%"></iframe>
+<script>searchUnit.loadingStart=new Date().getTime();</script>
+<div class="dialogbox" clstag="search|keycount|search|relative-search1" id="dialogbox-gift">
+<div class="gift"><em></em>
+<a href="javascript:;">京东帮您选礼物</a>
+<div class="prompt">
+<div class="pc"><dl class="fore"><dt>送给谁：</dt><dd></dd></dl><dl><dt>啥时送：</dt><dd></dd></dl><dl><dt> </dt><dd><input class="btn-gift-search" onclick="GS.search()" type="button" value="搜索"/></dd></dl></div>
+<div class="pt"><i class="i1"></i><i class="i2"></i><i class="i3"></i></div>
+</div>
+</div>
+</div>
+<div class="clr"></div>
+<div id="box-search" style="display: none;"></div><div class="m" id="select">
+<div class="mt">
+<h1>aaa  <strong>商品筛选</strong></h1>
+<div class="total">
+<span>(共<strong id="res_count">74</strong>个商品)</span>
+</div>
+</div>
+<div class="mc attrs">
+<div class="selected-c">
+<div class="attr">
+<div class="a-key">已选条件：</div>
+<div class="a-values">
+<div class="v-fold">
+<ul class="f-list"><li><a href="search?keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;sttr=1&amp;uc=0&amp;bs=no&amp;qex=1#select" rel="nofollow" title="AAA">品牌：<strong>AAA</strong><b></b></a></li></ul>
+</div>
+<div class="v-option">
+<span id="all-revocation"><a href="search?keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;sttr=1&amp;uc=0&amp;bs=no&amp;qex=7" rel="nofollow">全部撤消</a></span>
+</div>
+</div>
+</div>
+</div>
+<div class="prop-attrs"><div class="attr"><div class="a-key">鞋跟：</div><div class="a-values"><div class="v-fold"><ul class="f-list"><li><a href="search?keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;sttr=1&amp;ev=exbrand_AAA%4015197_230987%40&amp;uc=0#select" onclick="MS.attr_click(this,'鞋跟::厚底',0)" rel="nofollow">厚底</a></li><li><a href="search?keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;sttr=1&amp;ev=exbrand_AAA%4015197_71204%40&amp;uc=0#select" onclick="MS.attr_click(this,'鞋跟::平跟',1)" rel="nofollow">平跟</a></li></ul></div>
+<div class="v-option">
+<span class="o-more hide"><b></b>更多</span>
+<span class="o-multiple"><b></b>多选</span>
+</div>
+<div class="v-btns">
+<a class="btn-red disabled" href="javascript:;">确定</a>
+<a class="btn-gray" href="javascript:;">取消</a>
+</div>
+</div>
+</div></div><div class="prop-attrs"><div class="attr"><div class="a-key">闭合方式：</div><div class="a-values"><div class="v-fold"><ul class="f-list"><li><a href="search?keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;sttr=1&amp;ev=exbrand_AAA%4011184_105789%40&amp;uc=0#select" onclick="MS.attr_click(this,'闭合方式::系带',0)" rel="nofollow">系带</a></li><li><a href="search?keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;sttr=1&amp;ev=exbrand_AAA%4011184_105783%40&amp;uc=0#select" onclick="MS.attr_click(this,'闭合方式::套脚',1)" rel="nofollow">套脚</a></li><li><a href="search?keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;sttr=1&amp;ev=exbrand_AAA%4011184_105785%40&amp;uc=0#select" onclick="MS.attr_click(this,'闭合方式::搭扣',2)" rel="nofollow">搭扣</a></li></ul></div>
+<div class="v-option">
+<span class="o-more hide"><b></b>更多</span>
+<span class="o-multiple"><b></b>多选</span>
+</div>
+<div class="v-btns">
+<a class="btn-red disabled" href="javascript:;">确定</a>
+<a class="btn-gray" href="javascript:;">取消</a>
+</div>
+</div>
+</div></div><div class="prop-attrs"><div class="attr"><div class="a-key">流行元素：</div><div class="a-values"><div class="v-fold"><ul class="f-list"><li><a href="search?keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;sttr=1&amp;ev=exbrand_AAA%408436_107088%40&amp;uc=0#select" onclick="MS.attr_click(this,'流行元素::镂空',0)" rel="nofollow">镂空</a></li><li><a href="search?keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;sttr=1&amp;ev=exbrand_AAA%408436_220948%40&amp;uc=0#select" onclick="MS.attr_click(this,'流行元素::车缝线',1)" rel="nofollow">车缝线</a></li></ul></div>
+<div class="v-option">
+<span class="o-more hide"><b></b>更多</span>
+<span class="o-multiple"><b></b>多选</span>
+</div>
+<div class="v-btns">
+<a class="btn-red disabled" href="javascript:;">确定</a>
+<a class="btn-gray" href="javascript:;">取消</a>
+</div>
+</div>
+</div></div><div class="prop-attrs" id="J_selectorSize"><div class="attr"><div class="a-key">尺码：</div><div class="a-values"><div class="v-fold"><ul class="f-list">
+<li data-group="0"><a href="search?keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;sttr=1&amp;ev=exbrand_AAA%40exsize_38%40&amp;uc=0#select" onclick="MS.attr_click(this,'尺码::38',0)" rel="nofollow">38</a></li>
+<li data-group="0"><a href="search?keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;sttr=1&amp;ev=exbrand_AAA%40exsize_39%40&amp;uc=0#select" onclick="MS.attr_click(this,'尺码::39',1)" rel="nofollow">39</a></li>
+<li data-group="0"><a href="search?keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;sttr=1&amp;ev=exbrand_AAA%40exsize_40%40&amp;uc=0#select" onclick="MS.attr_click(this,'尺码::40',2)" rel="nofollow">40</a></li>
+<li data-group="0"><a href="search?keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;sttr=1&amp;ev=exbrand_AAA%40exsize_41%40&amp;uc=0#select" onclick="MS.attr_click(this,'尺码::41',3)" rel="nofollow">41</a></li>
+<li data-group="0"><a href="search?keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;sttr=1&amp;ev=exbrand_AAA%40exsize_42%40&amp;uc=0#select" onclick="MS.attr_click(this,'尺码::42',4)" rel="nofollow">42</a></li>
+<li data-group="0"><a href="search?keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;sttr=1&amp;ev=exbrand_AAA%40exsize_43%40&amp;uc=0#select" onclick="MS.attr_click(this,'尺码::43',5)" rel="nofollow">43</a></li>
+<li data-group="0"><a href="search?keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;sttr=1&amp;ev=exbrand_AAA%40exsize_44%40&amp;uc=0#select" onclick="MS.attr_click(this,'尺码::44',6)" rel="nofollow">44</a></li>
+</ul>
+</div>
+<div class="v-option">
+<span class="o-more hide"><b></b>更多</span>
+<span class="o-multiple"><b></b>多选</span>
+</div>
+<div class="v-btns">
+<a class="btn-red disabled" href="javascript:;">确定</a>
+<a class="btn-gray" href="javascript:;">取消</a>
+</div>
+</div>
+</div>
+</div>
+<div class="prop-attrs"><div class="attr"><div class="a-key">皮革风格：</div><div class="a-values"><div class="v-fold"><ul class="f-list"><li><a href="search?keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;sttr=1&amp;ev=exbrand_AAA%4084087_71160%40&amp;uc=0#select" onclick="MS.attr_click(this,'皮革风格::漆皮',0)" rel="nofollow">漆皮</a></li><li><a href="search?keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;sttr=1&amp;ev=exbrand_AAA%4084087_76265%40&amp;uc=0#select" onclick="MS.attr_click(this,'皮革风格::磨砂皮',1)" rel="nofollow">磨砂皮</a></li><li><a href="search?keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;sttr=1&amp;ev=exbrand_AAA%4084087_530428%40&amp;uc=0#select" onclick="MS.attr_click(this,'皮革风格::软面皮',2)" rel="nofollow">软面皮</a></li><li><a href="search?keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;sttr=1&amp;ev=exbrand_AAA%4084087_530439%40&amp;uc=0#select" onclick="MS.attr_click(this,'皮革风格::粒面皮',3)" rel="nofollow">粒面皮</a></li></ul></div>
+<div class="v-option">
+<span class="o-more hide"><b></b>更多</span>
+<span class="o-multiple"><b></b>多选</span>
+</div>
+<div class="v-btns">
+<a class="btn-red disabled" href="javascript:;">确定</a>
+<a class="btn-gray" href="javascript:;">取消</a>
+</div>
+</div>
+</div></div><div class="color-attr"><div class="attr"><div class="a-key">颜色：</div><div class="a-values"><div class="v-colors">
+<a class="black" href="search?keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;sttr=1&amp;ev=exbrand_AAA%40excolor_%E9%BB%91%E8%89%B2%40&amp;uc=0#select" onclick="MS.attr_click(this,'颜色::黑色',0)" rel="nofollow" title="黑色"><span></span><b></b></a>
+<a class="light-gray" href="search?keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;sttr=1&amp;ev=exbrand_AAA%40excolor_%E7%81%B0%E8%89%B2%40&amp;uc=0#select" onclick="MS.attr_click(this,'颜色::灰色',1)" rel="nofollow" title="灰色"><span></span><b></b></a>
+<a class="red" href="search?keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;sttr=1&amp;ev=exbrand_AAA%40excolor_%E7%BA%A2%E8%89%B2%40&amp;uc=0#select" onclick="MS.attr_click(this,'颜色::红色',2)" rel="nofollow" title="红色"><span></span><b></b></a>
+<a class="blue" href="search?keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;sttr=1&amp;ev=exbrand_AAA%40excolor_%E8%93%9D%E8%89%B2%40&amp;uc=0#select" onclick="MS.attr_click(this,'颜色::蓝色',3)" rel="nofollow" title="蓝色"><span></span><b></b></a>
+<a class="green" href="search?keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;sttr=1&amp;ev=exbrand_AAA%40excolor_%E7%BB%BF%E8%89%B2%40&amp;uc=0#select" onclick="MS.attr_click(this,'颜色::绿色',4)" rel="nofollow" title="绿色"><span></span><b></b></a>
+<a class="yellow" href="search?keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;sttr=1&amp;ev=exbrand_AAA%40excolor_%E9%BB%84%E8%89%B2%40&amp;uc=0#select" onclick="MS.attr_click(this,'颜色::黄色',5)" rel="nofollow" title="黄色"><span></span><b></b></a>
+<a class="brown" href="search?keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;sttr=1&amp;ev=exbrand_AAA%40excolor_%E6%A3%95%E8%89%B2%40&amp;uc=0#select" onclick="MS.attr_click(this,'颜色::棕色',6)" rel="nofollow" title="棕色"><span></span><b></b></a>
+<a class="light-tan" href="search?keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;sttr=1&amp;ev=exbrand_AAA%40excolor_%E9%A9%BC%E8%89%B2%40&amp;uc=0#select" onclick="MS.attr_click(this,'颜色::驼色',7)" rel="nofollow" title="驼色"><span></span><b></b></a>
+</div>
+<div class="v-option">
+<span class="o-more hide"><b></b>更多</span>
+<span class="o-multiple"><b></b>多选</span>
+</div>
+<div class="v-btns">
+<a class="btn-red disabled" href="javascript:;">确定</a>
+<a class="btn-gray" href="javascript:;">取消</a>
+</div>
+</div>
+</div>
+</div>
+<div class="prop-attrs"><div class="attr"><div class="a-key">功能：</div><div class="a-values"><div class="v-fold"><ul class="f-list"><li><a href="search?keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;sttr=1&amp;ev=exbrand_AAA%40551_205925%40&amp;uc=0#select" onclick="MS.attr_click(this,'功能::耐磨',0)" rel="nofollow">耐磨</a></li><li><a href="search?keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;sttr=1&amp;ev=exbrand_AAA%40551_217596%40&amp;uc=0#select" onclick="MS.attr_click(this,'功能::减震',1)" rel="nofollow">减震</a></li><li><a href="search?keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;sttr=1&amp;ev=exbrand_AAA%40551_205927%40&amp;uc=0#select" onclick="MS.attr_click(this,'功能::轻质',2)" rel="nofollow">轻质</a></li></ul></div>
+<div class="v-option">
+<span class="o-more hide"><b></b>更多</span>
+<span class="o-multiple"><b></b>多选</span>
+</div>
+<div class="v-btns">
+<a class="btn-red disabled" href="javascript:;">确定</a>
+<a class="btn-gray" href="javascript:;">取消</a>
+</div>
+</div>
+</div></div><div class="prop-attrs">
+<div class="attr" id="select-price">
+<div class="a-key">价格：</div>
+<div class="a-values">
+<div class="v-fold">
+<ul class="f-list">
+<li><a href="search?keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;sttr=1&amp;ev=exbrand_AAA%40exprice_0-299%40&amp;uc=0#select" onclick="MS.attr_click(this,'价格::0-299',0)" rel="nofollow">0-299</a></li>
+<li><a href="search?keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;sttr=1&amp;ev=exbrand_AAA%40exprice_300-399%40&amp;uc=0#select" onclick="MS.attr_click(this,'价格::300-399',1)" rel="nofollow">300-399</a></li>
+<li><a href="search?keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;sttr=1&amp;ev=exbrand_AAA%40exprice_400-599%40&amp;uc=0#select" onclick="MS.attr_click(this,'价格::400-599',2)" rel="nofollow">400-599</a></li>
+<li><a href="search?keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;sttr=1&amp;ev=exbrand_AAA%40exprice_600gt%40&amp;uc=0#select" onclick="MS.attr_click(this,'价格::600以上',3)" rel="nofollow">600以上</a></li>
+</ul>
+<div class="pr">
+<input autocomplete="off" class="price-range" title="最低价" type="text" value=""/><i></i><input autocomplete="off" class="price-range" title="最高价" type="text" value=""/><a class="btn-price-range btn-gray" url="search?keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;sttr=1&amp;ev=exbrand_AAA%40exprice_min-max%40&amp;uc=0#select">确定</a>
+</div>
+</div>
+<div class="v-btns">
+<a class="btn-red disabled" href="javascript:;">确定</a>
+<a class="btn-gray" href="javascript:;">取消</a>
+</div>
+</div>
+</div>
+</div>
+<div class="clr"></div>
+</div>
+<div class="mb" id="advanced">
+<div class="attr-extra"><div>更多选项<b></b></div></div>
+</div>
+</div>
+<script>
+(function(t,$){var e=$("#select>.attrs").children().not(".clr,.selected-c"),g=e.length,o=4,n=true;
+function r(j,u){var v={};v.i="1428287055.73215";v.h="11730";v.k="aaa";v.c="";v.m="db28ca1e4d13cad7af434a8cfcd1b498";
+var k=[];$("#select").find(".selected-c li a").each(function(){k.push($(this).text().replace(/：[\s\S]+/,"::")+$(this).attr('title').replace(/、/g,"||"))});v.s=k.join(";;")+(k.length?";;":"");
+var s=[];for(var x=j;x<u;x++){var w=e.eq(x),y=w.find(".a-key").text().replace("：","::"),l=[];if(y=="品牌::"){w.find(".tabcon div").each(function(){l.push(this.id.replace("brand-",""))})}else{if(y=="颜色::"){w.find(".v-colors a").each(function(){l.push($(this).attr("title"))})}else{w.find("ul.f-list a").each(function(){l.push($(this).text())})}}s.push(y+l.join(",,"))}v.u=s.join(";;")+(s.length?";;":"");$.post("attrlog.php",v,function(){})}
+if(g<=o){$("#advanced").css("margin-bottom","10px").children().hide();setTimeout(function(){r(0,g)},200);return}
+var f=$("#advanced>div"),b="";for(var m=o,c=Math.min(g,o+4);m<c;m++){b+=e.eq(m).find("div.a-key").text().replace("：","，")}b=b.substr(0,b.length-1);if(g>o+4){b+="等"}
+function q(){e.slice(o).hide();f.removeClass("open").html("<div>更多选项（"+b+"）<b></b></div>")}
+function h(){e.slice(o).show();f.addClass("open").html("<div>收起<b></b></div>")}
+f.click(function(){searchlog(1,0,0,23);f.hasClass("open")?q():h();if(n){try{t.bind_events.handle_more_multi(true),r(o,g)}catch(i){}n=false}});
+q(),setTimeout(function(){r(0,o)},500)})(SEARCH,$);
+SEARCH.brand_ids='';
+</script><!--显示已选条件及属性-->
+<div class="clr"></div>
+<div clstag="thirdtype|keycount|thirdtype|filter" id="filter">
+<div class="fore1">
+<dl class="order">
+<dt>排序：</dt>
+<dd class="curr"><a href="javascript:void(0)" onclick="searchlog(1,0,0,55)">综合排序</a><b></b></dd>
+<dd><a href="search?keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;sttr=1&amp;ev=exbrand_AAA%40&amp;psort=3" onclick="searchlog(1,3,0,55)">销量</a><b></b></dd>
+<dd><a href="search?keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;sttr=1&amp;ev=exbrand_AAA%40&amp;psort=2" onclick="searchlog(1,2,0,55)">价格</a><b></b></dd>
+<dd><a href="search?keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;sttr=1&amp;ev=exbrand_AAA%40&amp;psort=4" onclick="searchlog(1,4,0,55)">评论数</a><b></b></dd>
+<dd><a href="search?keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;sttr=1&amp;ev=exbrand_AAA%40&amp;psort=5" onclick="searchlog(1,5,0,55)">新品</a><b></b></dd>
+</dl>
+<dl class="activity">
+<dd>
+<a class="" href="search?keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;sttr=1&amp;icon=120&amp;ev=exbrand_AAA%40#filter" onclick="searchlog(1,0,0,65)"><b></b><em class="act-jingdongshangou"></em></a>
+</dd>
+</dl>
+<div class="pagin pagin-m" id="top_pagi">
+<span class="text"><i>1</i>/3</span>
+<span class="prev-disabled">上一页<b></b></span>
+<a class="next" href="search?keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;sttr=1&amp;ev=exbrand_AAA%40&amp;page=2" onclick="searchlog(1, 2, 0, 56);">下一页<b></b></a>
+</div>
+<span class="clr"></span>
+</div>
+<div class="fore2 form">
+<dl class="store">
+<dt>配送至：</dt>
+<dd id="store-selector">
+<div class="text">全国<b></b></div>
+<div class="content"></div>
+<div class="close" onclick="$('#store-selector').removeClass('hover')"></div>
+</dd>
+<dd class="instock">
+<div class="">
+<a href="search?keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;sttr=1&amp;ev=exbrand_AAA%40&amp;stock=1#filter" onclick="searchlog(1,0,0,41)" rel="nofollow" title="选择省份后可进行有货筛选"><b></b>仅显示有货</a>
+</div>
+</dd>
+</dl>
+<div class="type3" id="ware_type">
+<div class="bd">
+<a class="" href="search?keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;sttr=1&amp;ev=exbrand_AAA%40&amp;wtype=1#filter" onclick="searchlog(1,0,0,43)" rel="nofollow"><b></b>京东配送</a>
+<a class="" href="search?keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;sttr=1&amp;cod=1&amp;ev=exbrand_AAA%40#filter" onclick="searchlog(1,0,0,34)" rel="nofollow"><b></b>货到付款</a>
+</div>
+</div>
+<dl class="stock-search">
+<dt><input autocomplete="off" class="text-stock-search" id="text-stock-search" title="在结果中搜索" type="text" value="在结果中搜索"/></dt>
+<dd><input class="btn-stock-search" id="btn-stock-search" type="button" url="search?keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;sttr=1&amp;ev=exbrand_AAA%40&amp;exp_key=" value="确定"/></dd>
+</dl>
+<div class="list-cutover">
+<a class="modfiy-url grid-unselected grid-curr" href="javascript:;" id="grid-unselected" onclick="searchlog(1,0,0,45)"><b></b>商品</a>
+<a class="modfiy-url shop-unselected" href="search?keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;sttr=1&amp;ev=exbrand_AAA%40&amp;vt=3#filter" id="shop-unselected" onclick="searchlog(1,0,0,28)" rel="nofollow"><b></b>店铺</a>
+</div>
+<span class="clr"></span>
+</div>
+</div>
+<div class="m psearch plist-n7 prebuy" id="plist">
+<ul class="list-h clearfix" tpl="3"><li sku="1400007470">
+<div class="lh-wrap">
+<div class="p-img">
+<a href="http://item.jd.com/1400007470.html" onclick="searchlog(1,1400007470,0,2,'','')" target="_blank">
+<img data-img="1" data-lazyload="http://img10.360buyimg.com/n7/jfs/t457/93/623562601/173687/ca3e64de/54768cf2N91a8ee48.jpg" height="220" width="220"/>
+</a>
+<div></div>
+</div>
+<div class="p-scroll">
+<a class="p-scroll-btn p-scroll-prev" href="javascript:;">&lt;</a>
+<div class="p-scroll-wrap">
+<ul>
+<li><a class="curr" href="javascript:;" title="黑色"><img data-lazyload="http://img10.360buyimg.com/n9/jfs/t457/93/623562601/173687/ca3e64de/54768cf2N91a8ee48.jpg" data-skuid="1400007470" height="25" width="25"/></a></li>
+</ul>
+</div>
+<a class="p-scroll-btn p-scroll-next" href="javascript:;">&gt;</a>
+</div>
+<div class="p-name">
+<a href="http://item.jd.com/1400007470.html" onclick="searchlog(1,1400007470,0,1,'','')" target="_blank">
+			2014年<font class="skcolor_ljg">AAA</font>秋冬季新款男商务休闲鞋B432004 黑色 43<font class="adwords" id="AD_1400007470" style="color:#ff0000"></font>
+</a>
+</div>
+<div class="p-price">
+<em></em><strong class="J_1400007470" data-price="439.00">￥439.00</strong> <span id="p1400007470"></span>
+</div>
+<div class="extra">
+<span class="star"><span class="star-white"><span class="star-yellow h5"> </span></span></span>
+<a href="http://item.jd.com/1400007470.html#comments-list" id="comment-1400007470" onclick="searchlog(1,1400007470,0,3,'','')" target="_blank">已有0人评价</a>
+<span class="reputation" style="display:none;">(0%好评)</span>
+</div>
+<div class="stocklist">
+<span class="st33">湖南有货</span>
+</div>
+<div class="hide"><a data-stock="1400007470" data-stock-val="1" presale="0"></a></div>
+<div class="product-follow"><a class="btn-coll" href="javascript:;" id="coll1400007470" onclick="searchlog(1,1400007470,0,5,'','')"><s></s>加关注</a></div>
+<div class="shop-name" data-selfware="0" shop_id="24105"></div>
+</div>
+</li>
+<li sku="1400031652">
+<div class="lh-wrap">
+<div class="p-img">
+<a href="http://item.jd.com/1400031652.html" onclick="searchlog(1,1400031652,1,2,'','')" target="_blank">
+<img data-img="1" data-lazyload="http://img12.360buyimg.com/n7/jfs/t694/364/601306115/226639/bc3762a5/5476913dN85f04eef.jpg" height="220" width="220"/>
+</a>
+<div></div>
+</div>
+<div class="p-scroll">
+<a class="p-scroll-btn p-scroll-prev" href="javascript:;">&lt;</a>
+<div class="p-scroll-wrap">
+<ul>
+<li><a class="curr" href="javascript:;" title="黑色"><img data-lazyload="http://img12.360buyimg.com/n9/jfs/t694/364/601306115/226639/bc3762a5/5476913dN85f04eef.jpg" data-skuid="1400031652" height="25" width="25"/></a></li>
+</ul>
+</div>
+<a class="p-scroll-btn p-scroll-next" href="javascript:;">&gt;</a>
+</div>
+<div class="p-name">
+<a href="http://item.jd.com/1400031652.html" onclick="searchlog(1,1400031652,1,1,'','')" target="_blank">
+			2014年<font class="skcolor_ljg">AAA</font>秋冬季新款男商务休闲鞋TB415006 黑色 部分缺货需要延迟3-5天发货<font class="adwords" id="AD_1400031652" style="color:#ff0000"></font>
+</a>
+</div>
+<div class="p-price">
+<em></em><strong class="J_1400031652" data-price="369.00">￥369.00</strong> <span id="p1400031652"></span>
+</div>
+<div class="extra">
+<span class="star"><span class="star-white"><span class="star-yellow h5"> </span></span></span>
+<a href="http://item.jd.com/1400031652.html#comments-list" id="comment-1400031652" onclick="searchlog(1,1400031652,1,3,'','')" target="_blank">已有1人评价</a>
+<span class="reputation" style="display:none;">(100%好评)</span>
+</div>
+<div class="stocklist">
+<span class="st33">湖南有货</span>
+</div>
+<div class="hide"><a data-stock="1400031652" data-stock-val="1" presale="0"></a></div>
+<div class="product-follow"><a class="btn-coll" href="javascript:;" id="coll1400031652" onclick="searchlog(1,1400031652,1,5,'','')"><s></s>加关注</a></div>
+<div class="shop-name" data-selfware="0" shop_id="24105"></div>
+</div>
+</li>
+<li sku="1188111162">
+<div class="lh-wrap">
+<div class="p-img">
+<a href="http://item.jd.com/1188111162.html" onclick="searchlog(1,1188111162,2,2,'','')" target="_blank">
+<img data-img="1" data-lazyload="http://img12.360buyimg.com/n7/jfs/t160/142/1076737370/149165/5395aa45/53a27f9aNee27b8ae.jpg" height="220" width="220"/>
+</a>
+<div></div>
+</div>
+<div class="p-scroll">
+<a class="p-scroll-btn p-scroll-prev" href="javascript:;">&lt;</a>
+<div class="p-scroll-wrap">
+<ul>
+<li><a class="curr" href="javascript:;" title="绿色"><img data-lazyload="http://img12.360buyimg.com/n9/jfs/t160/142/1076737370/149165/5395aa45/53a27f9aNee27b8ae.jpg" data-skuid="1188111162" height="25" width="25"/></a></li>
+<li><a href="javascript:;" title="浅棕"><img data-lazyload="http://img14.360buyimg.com/n9/jfs/t148/266/1126596966/145171/dc1ea119/53a27fa9Nbe163fa4.jpg" data-skuid="1188111174" height="25" width="25"/></a></li>
+<li><a href="javascript:;" title="蓝色"><img data-lazyload="http://img13.360buyimg.com/n9/jfs/t181/37/1069068574/156137/e851208/53a27fa2Ndfabffa6.jpg" data-skuid="1188111168" height="25" width="25"/></a></li>
+</ul>
+</div>
+<a class="p-scroll-btn p-scroll-next" href="javascript:;">&gt;</a>
+</div>
+<div class="p-name">
+<a href="http://item.jd.com/1188111162.html" onclick="searchlog(1,1188111162,2,1,'','')" target="_blank">
+<font class="skcolor_ljg">AAA</font> 夏季男士休闲鞋英伦反绒皮男鞋舒适透气潮鞋单鞋子帆船鞋子 绿色 43<font class="adwords" id="AD_1188111162" style="color:#ff0000"></font>
+</a>
+</div>
+<div class="p-price">
+<em></em><strong class="J_1188111162" data-price="238.00">￥238.00</strong> <span id="p1188111162"></span>
+</div>
+<div class="extra">
+<span class="star"><span class="star-white"><span class="star-yellow h5"> </span></span></span>
+<a href="http://item.jd.com/1188111162.html#comments-list" id="comment-1188111162" onclick="searchlog(1,1188111162,2,3,'','')" target="_blank">已有2人评价</a>
+<span class="reputation" style="display:none;">(100%好评)</span>
+</div>
+<div class="stocklist">
+<span class="st33">湖南有货</span>
+</div>
+<div class="hide"><a data-stock="1188111162" data-stock-val="1" presale="0"></a></div>
+<div class="product-follow"><a class="btn-coll" href="javascript:;" id="coll1188111162" onclick="searchlog(1,1188111162,2,5,'','')"><s></s>加关注</a></div>
+<div class="shop-name" data-selfware="0" shop_id="24105"></div>
+</div>
+</li>
+<li sku="1455417915">
+<div class="lh-wrap">
+<div class="p-img">
+<a href="http://item.jd.com/1455417915.html" onclick="searchlog(1,1455417915,3,2,'','')" target="_blank">
+<img data-img="1" data-lazyload="http://img10.360buyimg.com/n7/" height="220" width="220"/>
+</a>
+<div></div>
+</div>
+<div class="p-scroll">
+<a class="p-scroll-btn p-scroll-prev" href="javascript:;">&lt;</a>
+<div class="p-scroll-wrap">
+<ul>
+<li><a class="curr" href="javascript:;" title="黑色"><img data-lazyload="http://img10.360buyimg.com/n9/" data-skuid="1455417915" height="25" width="25"/></a></li>
+</ul>
+</div>
+<a class="p-scroll-btn p-scroll-next" href="javascript:;">&gt;</a>
+</div>
+<div class="p-name">
+<a href="http://item.jd.com/1455417915.html" onclick="searchlog(1,1455417915,3,1,'','')" target="_blank">
+<font class="skcolor_ljg">AAA</font>男鞋2014春季新款男士休闲皮鞋商务休闲尖头系带韩版板鞋 B1939087 黑色 44<font class="adwords" id="AD_1455417915" style="color:#ff0000"></font>
+</a>
+</div>
+<div class="p-price">
+<em></em><strong class="J_1455417915" data-price="370.44">￥370.44</strong> <span id="p1455417915"></span>
+</div>
+<div class="extra">
+<span class="star"><span class="star-white"><span class="star-yellow h5"> </span></span></span>
+<a href="http://item.jd.com/1455417915.html#comments-list" id="comment-1455417915" onclick="searchlog(1,1455417915,3,3,'','')" target="_blank">已有1人评价</a>
+<span class="reputation" style="display:none;">(100%好评)</span>
+</div>
+<div class="stocklist">
+<span class="st33">湖南有货</span>
+</div>
+<div class="hide"><a data-stock="1455417915" data-stock-val="1" presale="0"></a></div>
+<div class="product-follow"><a class="btn-coll" href="javascript:;" id="coll1455417915" onclick="searchlog(1,1455417915,3,5,'','')"><s></s>加关注</a></div>
+<div class="shop-name" data-selfware="0" shop_id="24105"></div>
+</div>
+</li>
+<li sku="1075041023">
+<div class="lh-wrap">
+<div class="p-img">
+<a href="http://item.jd.com/1075041023.html" onclick="searchlog(1,1075041023,4,2,'','')" target="_blank">
+<img data-img="1" data-lazyload="http://img13.360buyimg.com/n7/g13/M08/11/07/rBEhU1LQ6YwIAAAAAAOs27GFf3wAAH0_AC0YYIAA6zz158.jpg" height="220" width="220"/>
+</a>
+<div></div>
+</div>
+<div class="p-scroll">
+<a class="p-scroll-btn p-scroll-prev" href="javascript:;">&lt;</a>
+<div class="p-scroll-wrap">
+<ul>
+<li><a class="curr" href="javascript:;" title="蓝色"><img data-lazyload="http://img13.360buyimg.com/n9/g13/M08/11/07/rBEhU1LQ6YwIAAAAAAOs27GFf3wAAH0_AC0YYIAA6zz158.jpg" data-skuid="1075041023" height="25" width="25"/></a></li>
+<li><a href="javascript:;" title="棕色"><img data-lazyload="http://img14.360buyimg.com/n9/g13/M02/11/07/rBEhVFLQ6YQIAAAAAALTXTadEKUAAH0-wPE-yAAAtN1622.jpg" data-skuid="1075041014" height="25" width="25"/></a></li>
+</ul>
+</div>
+<a class="p-scroll-btn p-scroll-next" href="javascript:;">&gt;</a>
+</div>
+<div class="p-name">
+<a href="http://item.jd.com/1075041023.html" onclick="searchlog(1,1075041023,4,1,'','')" target="_blank">
+<font class="skcolor_ljg">AAA</font>男鞋2014新款时尚休闲商务男士板鞋 圆头套脚皮鞋N45486201 蓝色 43<font class="adwords" id="AD_1075041023" style="color:#ff0000"></font>
+</a>
+</div>
+<div class="p-price">
+<em></em><strong class="J_1075041023" data-price="368.60">￥368.60</strong> <span id="p1075041023"></span>
+</div>
+<div class="extra">
+<span class="star"><span class="star-white"><span class="star-yellow h5"> </span></span></span>
+<a href="http://item.jd.com/1075041023.html#comments-list" id="comment-1075041023" onclick="searchlog(1,1075041023,4,3,'','')" target="_blank">已有1人评价</a>
+<span class="reputation" style="display:none;">(100%好评)</span>
+</div>
+<div class="stocklist">
+<span class="st33">湖南有货</span>
+</div>
+<div class="hide"><a data-stock="1075041023" data-stock-val="1" presale="0"></a></div>
+<div class="product-follow"><a class="btn-coll" href="javascript:;" id="coll1075041023" onclick="searchlog(1,1075041023,4,5,'','')"><s></s>加关注</a></div>
+<div class="shop-name" data-selfware="0" shop_id="24105"></div>
+</div>
+</li>
+<li sku="1046899958">
+<div class="lh-wrap">
+<div class="p-img">
+<a href="http://item.jd.com/1046899958.html" onclick="searchlog(1,1046899958,5,2,'','')" target="_blank">
+<img data-img="1" data-lazyload="http://img13.360buyimg.com/n7/g13/M00/12/01/rBEhVFJlK4cIAAAAAAK4vimYWK4AAEaowB6uZgAArjW003.jpg" height="220" width="220"/>
+</a>
+<div></div>
+</div>
+<div class="p-scroll">
+<a class="p-scroll-btn p-scroll-prev" href="javascript:;">&lt;</a>
+<div class="p-scroll-wrap">
+<ul>
+<li><a class="curr" href="javascript:;" title="黑色"><img data-lazyload="http://img13.360buyimg.com/n9/g13/M00/12/01/rBEhVFJlK4cIAAAAAAK4vimYWK4AAEaowB6uZgAArjW003.jpg" data-skuid="1046899958" height="25" width="25"/></a></li>
+</ul>
+</div>
+<a class="p-scroll-btn p-scroll-next" href="javascript:;">&gt;</a>
+</div>
+<div class="p-name">
+<a href="http://item.jd.com/1046899958.html" onclick="searchlog(1,1046899958,5,1,'','')" target="_blank">
+<font class="skcolor_ljg">AAA</font>男鞋2014春季新款休闲商务男鞋 圆头系带男士板鞋商务休闲男士皮鞋B3925087 黑色 43<font class="adwords" id="AD_1046899958" style="color:#ff0000"></font>
+</a>
+</div>
+<div class="p-price">
+<em></em><strong class="J_1046899958" data-price="311.60">￥311.60</strong> <span id="p1046899958"></span>
+</div>
+<div class="extra">
+<span class="star"><span class="star-white"><span class="star-yellow h5"> </span></span></span>
+<a href="http://item.jd.com/1046899958.html#comments-list" id="comment-1046899958" onclick="searchlog(1,1046899958,5,3,'','')" target="_blank">已有0人评价</a>
+<span class="reputation" style="display:none;">(0%好评)</span>
+</div>
+<div class="stocklist">
+<span class="st33">湖南有货</span>
+</div>
+<div class="hide"><a data-stock="1046899958" data-stock-val="1" presale="0"></a></div>
+<div class="product-follow"><a class="btn-coll" href="javascript:;" id="coll1046899958" onclick="searchlog(1,1046899958,5,5,'','')"><s></s>加关注</a></div>
+<div class="shop-name" data-selfware="0" shop_id="24105"></div>
+</div>
+</li>
+<li sku="1400004202">
+<div class="lh-wrap">
+<div class="p-img">
+<a href="http://item.jd.com/1400004202.html" onclick="searchlog(1,1400004202,6,2,'','')" target="_blank">
+<img data-img="1" data-lazyload="http://img12.360buyimg.com/n7/jfs/t655/197/626812894/225110/526b505e/54768bb2N2e9fca95.jpg" height="220" width="220"/>
+</a>
+<div></div>
+</div>
+<div class="p-scroll">
+<a class="p-scroll-btn p-scroll-prev" href="javascript:;">&lt;</a>
+<div class="p-scroll-wrap">
+<ul>
+<li><a class="curr" href="javascript:;" title="黑色"><img data-lazyload="http://img12.360buyimg.com/n9/jfs/t655/197/626812894/225110/526b505e/54768bb2N2e9fca95.jpg" data-skuid="1400004202" height="25" width="25"/></a></li>
+</ul>
+</div>
+<a class="p-scroll-btn p-scroll-next" href="javascript:;">&gt;</a>
+</div>
+<div class="p-name">
+<a href="http://item.jd.com/1400004202.html" onclick="searchlog(1,1400004202,6,1,'','')" target="_blank">
+			2014年<font class="skcolor_ljg">AAA</font>秋冬季新款男商务休闲鞋B432003 黑色 40<font class="adwords" id="AD_1400004202" style="color:#ff0000"></font>
+</a>
+</div>
+<div class="p-price">
+<em></em><strong class="J_1400004202" data-price="439.00">￥439.00</strong> <span id="p1400004202"></span>
+</div>
+<div class="extra">
+<span class="star"><span class="star-white"><span class="star-yellow h5"> </span></span></span>
+<a href="http://item.jd.com/1400004202.html#comments-list" id="comment-1400004202" onclick="searchlog(1,1400004202,6,3,'','')" target="_blank">已有0人评价</a>
+<span class="reputation" style="display:none;">(0%好评)</span>
+</div>
+<div class="stocklist">
+<span class="st33">湖南有货</span>
+</div>
+<div class="hide"><a data-stock="1400004202" data-stock-val="1" presale="0"></a></div>
+<div class="product-follow"><a class="btn-coll" href="javascript:;" id="coll1400004202" onclick="searchlog(1,1400004202,6,5,'','')"><s></s>加关注</a></div>
+<div class="shop-name" data-selfware="0" shop_id="24105"></div>
+</div>
+</li>
+<li sku="1388384393">
+<div class="lh-wrap">
+<div class="p-img">
+<a href="http://item.jd.com/1388384393.html" onclick="searchlog(1,1388384393,7,2,'','')" target="_blank">
+<img data-img="1" data-lazyload="http://img13.360buyimg.com/n7/jfs/t568/295/444378692/199753/ae40bc58/54695bd3N13227926.jpg" height="220" width="220"/>
+</a>
+<div></div>
+</div>
+<div class="p-scroll">
+<a class="p-scroll-btn p-scroll-prev" href="javascript:;">&lt;</a>
+<div class="p-scroll-wrap">
+<ul>
+<li><a class="curr" href="javascript:;" title="黑色"><img data-lazyload="http://img13.360buyimg.com/n9/jfs/t568/295/444378692/199753/ae40bc58/54695bd3N13227926.jpg" data-skuid="1388384393" height="25" width="25"/></a></li>
+<li><a href="javascript:;" title="蓝色"><img data-lazyload="http://img11.360buyimg.com/n9/jfs/t457/220/439813790/72859/3c40da4a/54695bd4N25d1fc1c.jpg" data-skuid="1388384386" height="25" width="25"/></a></li>
+<li><a href="javascript:;" title="咖啡色"><img data-lazyload="http://img10.360buyimg.com/n9/jfs/t544/85/444690570/69624/7ff94ee5/54695bd5N637b46e7.jpg" data-skuid="1388384400" height="25" width="25"/></a></li>
+</ul>
+</div>
+<a class="p-scroll-btn p-scroll-next" href="javascript:;">&gt;</a>
+</div>
+<div class="p-name">
+<a href="http://item.jd.com/1388384393.html" onclick="searchlog(1,1388384393,7,1,'','')" target="_blank">
+			2014<font class="skcolor_ljg">AAA</font>秋冬季新款男休闲商务鞋头层牛皮男鞋N47499009 黑色 部分缺货需要延迟3-5天发货<font class="adwords" id="AD_1388384393" style="color:#ff0000"></font>
+</a>
+</div>
+<div class="p-price">
+<em></em><strong class="J_1388384393" data-price="449.00">￥449.00</strong> <span id="p1388384393"></span>
+</div>
+<div class="extra">
+<span class="star"><span class="star-white"><span class="star-yellow h5"> </span></span></span>
+<a href="http://item.jd.com/1388384393.html#comments-list" id="comment-1388384393" onclick="searchlog(1,1388384393,7,3,'','')" target="_blank">已有0人评价</a>
+<span class="reputation" style="display:none;">(0%好评)</span>
+</div>
+<div class="stocklist">
+<span class="st33">湖南有货</span>
+</div>
+<div class="hide"><a data-stock="1388384393" data-stock-val="1" presale="0"></a></div>
+<div class="product-follow"><a class="btn-coll" href="javascript:;" id="coll1388384393" onclick="searchlog(1,1388384393,7,5,'','')"><s></s>加关注</a></div>
+<div class="shop-name" data-selfware="0" shop_id="24105"></div>
+</div>
+</li>
+<li sku="1315119571">
+<div class="lh-wrap">
+<div class="p-img">
+<a href="http://item.jd.com/1315119571.html" onclick="searchlog(1,1315119571,8,2,'','')" target="_blank">
+<img data-img="1" data-lazyload="http://img11.360buyimg.com/n7/jfs/t433/99/538208501/26814/c353d9d3/54224da2N9e01c394.jpg" height="220" width="220"/>
+</a>
+<div></div>
+</div>
+<div class="p-scroll">
+<a class="p-scroll-btn p-scroll-prev" href="javascript:;">&lt;</a>
+<div class="p-scroll-wrap">
+<ul>
+<li><a class="curr" href="javascript:;" title="黑色"><img data-lazyload="http://img11.360buyimg.com/n9/jfs/t433/99/538208501/26814/c353d9d3/54224da2N9e01c394.jpg" data-skuid="1315119571" height="25" width="25"/></a></li>
+</ul>
+</div>
+<a class="p-scroll-btn p-scroll-next" href="javascript:;">&gt;</a>
+</div>
+<div class="p-name">
+<a href="http://item.jd.com/1315119571.html" onclick="searchlog(1,1315119571,8,1,'','')" target="_blank">
+			2014秋季<font class="skcolor_ljg">AAA</font>新款休闲商务潮流镂空套脚头层牛皮男士皮鞋 黑色 42<font class="adwords" id="AD_1315119571" style="color:#ff0000"></font>
+</a>
+</div>
+<div class="p-price">
+<em></em><strong class="J_1315119571" data-price="299.00">￥299.00</strong> <span id="p1315119571"></span>
+</div>
+<div class="extra">
+<span class="star"><span class="star-white"><span class="star-yellow h5"> </span></span></span>
+<a href="http://item.jd.com/1315119571.html#comments-list" id="comment-1315119571" onclick="searchlog(1,1315119571,8,3,'','')" target="_blank">已有0人评价</a>
+<span class="reputation" style="display:none;">(0%好评)</span>
+</div>
+<div class="stocklist">
+<span class="st33">湖南有货</span>
+</div>
+<div class="hide"><a data-stock="1315119571" data-stock-val="1" presale="0"></a></div>
+<div class="product-follow"><a class="btn-coll" href="javascript:;" id="coll1315119571" onclick="searchlog(1,1315119571,8,5,'','')"><s></s>加关注</a></div>
+<div class="shop-name" data-selfware="0" shop_id="24105"></div>
+</div>
+</li>
+<li sku="1046797601">
+<div class="lh-wrap">
+<div class="p-img">
+<a href="http://item.jd.com/1046797601.html" onclick="searchlog(1,1046797601,9,2,'','')" target="_blank">
+<img data-img="1" data-lazyload="http://img11.360buyimg.com/n7/g15/M06/10/16/rBEhWlJk3P8IAAAAAAKtSnBtNlUAAEZLAKKWG0AAq1i334.jpg" height="220" width="220"/>
+</a>
+<div></div>
+</div>
+<div class="p-scroll">
+<a class="p-scroll-btn p-scroll-prev" href="javascript:;">&lt;</a>
+<div class="p-scroll-wrap">
+<ul>
+<li><a class="curr" href="javascript:;" title="黑色"><img data-lazyload="http://img11.360buyimg.com/n9/g15/M06/10/16/rBEhWlJk3P8IAAAAAAKtSnBtNlUAAEZLAKKWG0AAq1i334.jpg" data-skuid="1046797601" height="25" width="25"/></a></li>
+</ul>
+</div>
+<a class="p-scroll-btn p-scroll-next" href="javascript:;">&gt;</a>
+</div>
+<div class="p-name">
+<a href="http://item.jd.com/1046797601.html" onclick="searchlog(1,1046797601,9,1,'','')" target="_blank">
+<font class="skcolor_ljg">AAA</font>男鞋2013秋季新款休闲商务男士皮鞋 真皮圆头套脚板鞋B1939037 黑色 43<font class="adwords" id="AD_1046797601" style="color:#ff0000"></font>
+</a>
+</div>
+<div class="p-price">
+<em></em><strong class="J_1046797601" data-price="359.10">￥359.10</strong> <span id="p1046797601"></span>
+</div>
+<div class="extra">
+<span class="star"><span class="star-white"><span class="star-yellow h5"> </span></span></span>
+<a href="http://item.jd.com/1046797601.html#comments-list" id="comment-1046797601" onclick="searchlog(1,1046797601,9,3,'','')" target="_blank">已有0人评价</a>
+<span class="reputation" style="display:none;">(0%好评)</span>
+</div>
+<div class="stocklist">
+<span class="st33">湖南有货</span>
+</div>
+<div class="hide"><a data-stock="1046797601" data-stock-val="1" presale="0"></a></div>
+<div class="product-follow"><a class="btn-coll" href="javascript:;" id="coll1046797601" onclick="searchlog(1,1046797601,9,5,'','')"><s></s>加关注</a></div>
+<div class="shop-name" data-selfware="0" shop_id="24105"></div>
+</div>
+</li>
+<li sku="1400020934">
+<div class="lh-wrap">
+<div class="p-img">
+<a href="http://item.jd.com/1400020934.html" onclick="searchlog(1,1400020934,10,2,'','')" target="_blank">
+<img data-img="1" data-lazyload="http://img14.360buyimg.com/n7/jfs/t529/300/594348602/240898/5135fb92/54768f95N7b78d746.jpg" height="220" width="220"/>
+</a>
+<div></div>
+</div>
+<div class="p-scroll">
+<a class="p-scroll-btn p-scroll-prev" href="javascript:;">&lt;</a>
+<div class="p-scroll-wrap">
+<ul>
+<li><a class="curr" href="javascript:;" title="黑色"><img data-lazyload="http://img14.360buyimg.com/n9/jfs/t529/300/594348602/240898/5135fb92/54768f95N7b78d746.jpg" data-skuid="1400020934" height="25" width="25"/></a></li>
+</ul>
+</div>
+<a class="p-scroll-btn p-scroll-next" href="javascript:;">&gt;</a>
+</div>
+<div class="p-name">
+<a href="http://item.jd.com/1400020934.html" onclick="searchlog(1,1400020934,10,1,'','')" target="_blank">
+			2014年<font class="skcolor_ljg">AAA</font>秋冬季新款男商务休闲鞋B432007 黑色 43<font class="adwords" id="AD_1400020934" style="color:#ff0000"></font>
+</a>
+</div>
+<div class="p-price">
+<em></em><strong class="J_1400020934" data-price="399.00">￥399.00</strong> <span id="p1400020934"></span>
+</div>
+<div class="extra">
+<span class="star"><span class="star-white"><span class="star-yellow h5"> </span></span></span>
+<a href="http://item.jd.com/1400020934.html#comments-list" id="comment-1400020934" onclick="searchlog(1,1400020934,10,3,'','')" target="_blank">已有0人评价</a>
+<span class="reputation" style="display:none;">(0%好评)</span>
+</div>
+<div class="stocklist">
+<span class="st33">湖南有货</span>
+</div>
+<div class="hide"><a data-stock="1400020934" data-stock-val="1" presale="0"></a></div>
+<div class="product-follow"><a class="btn-coll" href="javascript:;" id="coll1400020934" onclick="searchlog(1,1400020934,10,5,'','')"><s></s>加关注</a></div>
+<div class="shop-name" data-selfware="0" shop_id="24105"></div>
+</div>
+</li>
+<li sku="1188133179">
+<div class="lh-wrap">
+<div class="p-img">
+<a href="http://item.jd.com/1188133179.html" onclick="searchlog(1,1188133179,11,2,'','')" target="_blank">
+<img data-img="1" data-lazyload="http://img14.360buyimg.com/n7/jfs/t199/333/1113617354/144423/99ac5e0a/53a284ddN2585caf6.jpg" height="220" width="220"/>
+</a>
+<div></div>
+</div>
+<div class="p-scroll">
+<a class="p-scroll-btn p-scroll-prev" href="javascript:;">&lt;</a>
+<div class="p-scroll-wrap">
+<ul>
+<li><a class="curr" href="javascript:;" title="浅棕色"><img data-lazyload="http://img14.360buyimg.com/n9/jfs/t199/333/1113617354/144423/99ac5e0a/53a284ddN2585caf6.jpg" data-skuid="1188133179" height="25" width="25"/></a></li>
+<li><a href="javascript:;" title="桔色"><img data-lazyload="http://img10.360buyimg.com/n9/jfs/t193/196/1086385848/132470/c5cfeddf/53a284e1N0b9ed9d3.jpg" data-skuid="1188133185" height="25" width="25"/></a></li>
+</ul>
+</div>
+<a class="p-scroll-btn p-scroll-next" href="javascript:;">&gt;</a>
+</div>
+<div class="p-name">
+<a href="http://item.jd.com/1188133179.html" onclick="searchlog(1,1188133179,11,1,'','')" target="_blank">
+<font class="skcolor_ljg">AAA</font> 2014春夏季新款驾车鞋真皮男鞋休闲鞋透气鞋潮鞋帆船鞋子 浅棕色 42<font class="adwords" id="AD_1188133179" style="color:#ff0000"></font>
+</a>
+</div>
+<div class="p-price">
+<em></em><strong class="J_1188133179" data-price="208.00">￥208.00</strong> <span id="p1188133179"></span>
+</div>
+<div class="extra">
+<span class="star"><span class="star-white"><span class="star-yellow h4"> </span></span></span>
+<a href="http://item.jd.com/1188133179.html#comments-list" id="comment-1188133179" onclick="searchlog(1,1188133179,11,3,'','')" target="_blank">已有2人评价</a>
+<span class="reputation" style="display:none;">(50%好评)</span>
+</div>
+<div class="stocklist">
+<span class="st33">湖南有货</span>
+</div>
+<div class="hide"><a data-stock="1188133179" data-stock-val="1" presale="0"></a></div>
+<div class="product-follow"><a class="btn-coll" href="javascript:;" id="coll1188133179" onclick="searchlog(1,1188133179,11,5,'','')"><s></s>加关注</a></div>
+<div class="shop-name" data-selfware="0" shop_id="24105"></div>
+</div>
+</li>
+<li sku="1388400436">
+<div class="lh-wrap">
+<div class="p-img">
+<a href="http://item.jd.com/1388400436.html" onclick="searchlog(1,1388400436,12,2,'','')" target="_blank">
+<img data-img="1" data-lazyload="http://img11.360buyimg.com/n7/jfs/t574/134/451428438/56895/4a3fd343/54695d20N8e999b53.jpg" height="220" width="220"/>
+</a>
+<div></div>
+</div>
+<div class="p-scroll">
+<a class="p-scroll-btn p-scroll-prev" href="javascript:;">&lt;</a>
+<div class="p-scroll-wrap">
+<ul>
+<li><a class="curr" href="javascript:;" title="黑色"><img data-lazyload="http://img11.360buyimg.com/n9/jfs/t574/134/451428438/56895/4a3fd343/54695d20N8e999b53.jpg" data-skuid="1388400436" height="25" width="25"/></a></li>
+<li><a href="javascript:;" title="蓝色"><img data-lazyload="http://img12.360buyimg.com/n9/jfs/t649/239/462129632/70747/e4879088/54695d1fNd27ca2a2.jpg" data-skuid="1388400442" height="25" width="25"/></a></li>
+</ul>
+</div>
+<a class="p-scroll-btn p-scroll-next" href="javascript:;">&gt;</a>
+</div>
+<div class="p-name">
+<a href="http://item.jd.com/1388400436.html" onclick="searchlog(1,1388400436,12,1,'','')" target="_blank">
+			2014<font class="skcolor_ljg">AAA</font>新款男套脚商务休闲头层牛皮橡胶底男鞋 黑色 43<font class="adwords" id="AD_1388400436" style="color:#ff0000"></font>
+</a>
+</div>
+<div class="p-price">
+<em></em><strong class="J_1388400436" data-price="449.00">￥449.00</strong> <span id="p1388400436"></span>
+</div>
+<div class="extra">
+<span class="star"><span class="star-white"><span class="star-yellow h5"> </span></span></span>
+<a href="http://item.jd.com/1388400436.html#comments-list" id="comment-1388400436" onclick="searchlog(1,1388400436,12,3,'','')" target="_blank">已有0人评价</a>
+<span class="reputation" style="display:none;">(0%好评)</span>
+</div>
+<div class="stocklist">
+<span class="st33">湖南有货</span>
+</div>
+<div class="hide"><a data-stock="1388400436" data-stock-val="1" presale="0"></a></div>
+<div class="product-follow"><a class="btn-coll" href="javascript:;" id="coll1388400436" onclick="searchlog(1,1388400436,12,5,'','')"><s></s>加关注</a></div>
+<div class="shop-name" data-selfware="0" shop_id="24105"></div>
+</div>
+</li>
+<li sku="1073900293">
+<div class="lh-wrap">
+<div class="p-img">
+<a href="http://item.jd.com/1073900293.html" onclick="searchlog(1,1073900293,13,2,'','')" target="_blank">
+<img data-img="1" data-lazyload="http://img13.360buyimg.com/n7/g15/M00/01/08/rBEhWVLNH-sIAAAAAAMCAhGWlfIAAHtGwEMLAcAAwIa794.jpg" height="220" width="220"/>
+</a>
+<div></div>
+</div>
+<div class="p-scroll">
+<a class="p-scroll-btn p-scroll-prev" href="javascript:;">&lt;</a>
+<div class="p-scroll-wrap">
+<ul>
+<li><a class="curr" href="javascript:;" title="黑色"><img data-lazyload="http://img13.360buyimg.com/n9/g15/M00/01/08/rBEhWVLNH-sIAAAAAAMCAhGWlfIAAHtGwEMLAcAAwIa794.jpg" data-skuid="1073900293" height="25" width="25"/></a></li>
+<li><a href="javascript:;" title="浅棕色"><img data-lazyload="http://img14.360buyimg.com/n9/g15/M01/01/08/rBEhWlLNICYIAAAAAAMZDiKBnBoAAHtHADoLjIAAxkm951.jpg" data-skuid="1073900299" height="25" width="25"/></a></li>
+</ul>
+</div>
+<a class="p-scroll-btn p-scroll-next" href="javascript:;">&gt;</a>
+</div>
+<div class="p-name">
+<a href="http://item.jd.com/1073900293.html" onclick="searchlog(1,1073900293,13,1,'','')" target="_blank">
+<font class="skcolor_ljg">AAA</font>男鞋2014新款潮流时尚休闲男鞋 圆头系带真皮板鞋 N45491010 黑色 43<font class="adwords" id="AD_1073900293" style="color:#ff0000"></font>
+</a>
+</div>
+<div class="p-price">
+<em></em><strong class="J_1073900293" data-price="340.10">￥340.10</strong> <span id="p1073900293"></span>
+</div>
+<div class="extra">
+<span class="star"><span class="star-white"><span class="star-yellow h5"> </span></span></span>
+<a href="http://item.jd.com/1073900293.html#comments-list" id="comment-1073900293" onclick="searchlog(1,1073900293,13,3,'','')" target="_blank">已有2人评价</a>
+<span class="reputation" style="display:none;">(100%好评)</span>
+</div>
+<div class="stocklist">
+<span class="st33">湖南有货</span>
+</div>
+<div class="hide"><a data-stock="1073900293" data-stock-val="1" presale="0"></a></div>
+<div class="product-follow"><a class="btn-coll" href="javascript:;" id="coll1073900293" onclick="searchlog(1,1073900293,13,5,'','')"><s></s>加关注</a></div>
+<div class="shop-name" data-selfware="0" shop_id="24105"></div>
+</div>
+</li>
+<li sku="1423927401">
+<div class="lh-wrap">
+<div class="p-img">
+<a href="http://item.jd.com/1423927401.html" onclick="searchlog(1,1423927401,14,2,'','')" target="_blank">
+<img data-img="1" data-lazyload="http://img11.360buyimg.com/n7/jfs/t511/13/844717563/176851/60104649/548fd5bdN8143c1b1.jpg" height="220" width="220"/>
+</a>
+<div></div>
+</div>
+<div class="p-scroll">
+<a class="p-scroll-btn p-scroll-prev" href="javascript:;">&lt;</a>
+<div class="p-scroll-wrap">
+<ul>
+<li><a class="curr" href="javascript:;" title="黑色"><img data-lazyload="http://img11.360buyimg.com/n9/jfs/t511/13/844717563/176851/60104649/548fd5bdN8143c1b1.jpg" data-skuid="1423927401" height="25" width="25"/></a></li>
+</ul>
+</div>
+<a class="p-scroll-btn p-scroll-next" href="javascript:;">&gt;</a>
+</div>
+<div class="p-name">
+<a href="http://item.jd.com/1423927401.html" onclick="searchlog(1,1423927401,14,1,'','')" target="_blank">
+			2014年<font class="skcolor_ljg">AAA</font>新款男商务休闲鞋头层牛皮男鞋TB415003 黑色 42<font class="adwords" id="AD_1423927401" style="color:#ff0000"></font>
+</a>
+</div>
+<div class="p-price">
+<em></em><strong class="J_1423927401" data-price="361.62">￥361.62</strong> <span id="p1423927401"></span>
+</div>
+<div class="extra">
+<span class="star"><span class="star-white"><span class="star-yellow h5"> </span></span></span>
+<a href="http://item.jd.com/1423927401.html#comments-list" id="comment-1423927401" onclick="searchlog(1,1423927401,14,3,'','')" target="_blank">已有0人评价</a>
+<span class="reputation" style="display:none;">(0%好评)</span>
+</div>
+<div class="stocklist">
+<span class="st33">湖南有货</span>
+</div>
+<div class="hide"><a data-stock="1423927401" data-stock-val="1" presale="0"></a></div>
+<div class="product-follow"><a class="btn-coll" href="javascript:;" id="coll1423927401" onclick="searchlog(1,1423927401,14,5,'','')"><s></s>加关注</a></div>
+<div class="shop-name" data-selfware="0" shop_id="24105"></div>
+</div>
+</li>
+<li sku="1024931185">
+<div class="lh-wrap">
+<div class="p-img">
+<a href="http://item.jd.com/1024931185.html" onclick="searchlog(1,1024931185,15,2,'','')" target="_blank">
+<img data-img="1" data-lazyload="http://img10.360buyimg.com/n7/g13/M02/01/13/rBEhU1G_-UQIAAAAAASdTF5D5VEAAAUTQMx9HIABJ1k781.jpg" height="220" width="220"/>
+</a>
+<div></div>
+</div>
+<div class="p-scroll">
+<a class="p-scroll-btn p-scroll-prev" href="javascript:;">&lt;</a>
+<div class="p-scroll-wrap">
+<ul>
+<li><a class="curr" href="javascript:;" title="暗棕色"><img data-lazyload="http://img10.360buyimg.com/n9/g13/M02/01/13/rBEhU1G_-UQIAAAAAASdTF5D5VEAAAUTQMx9HIABJ1k781.jpg" data-skuid="1024931185" height="25" width="25"/></a></li>
+<li><a href="javascript:;" title="浅棕色"><img data-lazyload="http://img14.360buyimg.com/n9/g14/M05/01/14/rBEhVlG_-OQIAAAAAAQWjB3DMfIAAAUqQPFsDgABBak069.jpg" data-skuid="1024931179" height="25" width="25"/></a></li>
+</ul>
+</div>
+<a class="p-scroll-btn p-scroll-next" href="javascript:;">&gt;</a>
+</div>
+<div class="p-name">
+<a href="http://item.jd.com/1024931185.html" onclick="searchlog(1,1024931185,15,1,'','')" target="_blank">
+<font class="skcolor_ljg">AAA</font>男鞋 新款专柜正品 真皮头层牛皮 舒适简约 户外休闲潮流男鞋 A918701 暗棕色 43<font class="adwords" id="AD_1024931185" style="color:#ff0000"></font>
+</a>
+</div>
+<div class="p-price">
+<em></em><strong class="J_1024931185" data-price="226.10">￥226.10</strong> <span id="p1024931185"></span>
+</div>
+<div class="extra">
+<span class="star"><span class="star-white"><span class="star-yellow h4"> </span></span></span>
+<a href="http://item.jd.com/1024931185.html#comments-list" id="comment-1024931185" onclick="searchlog(1,1024931185,15,3,'','')" target="_blank">已有9人评价</a>
+<span class="reputation" style="display:none;">(89%好评)</span>
+</div>
+<div class="stocklist">
+<span class="st33">湖南有货</span>
+</div>
+<div class="hide"><a data-stock="1024931185" data-stock-val="1" presale="0"></a></div>
+<div class="product-follow"><a class="btn-coll" href="javascript:;" id="coll1024931185" onclick="searchlog(1,1024931185,15,5,'','')"><s></s>加关注</a></div>
+<div class="shop-name" data-selfware="0" shop_id="24105"></div>
+</div>
+</li>
+<li sku="1399991418">
+<div class="lh-wrap">
+<div class="p-img">
+<a href="http://item.jd.com/1399991418.html" onclick="searchlog(1,1399991418,16,2,'','')" target="_blank">
+<img data-img="1" data-lazyload="http://img13.360buyimg.com/n7/jfs/t466/330/625372389/241906/fd96a251/54768a98N1cdf3e04.jpg" height="220" width="220"/>
+</a>
+<div></div>
+</div>
+<div class="p-scroll">
+<a class="p-scroll-btn p-scroll-prev" href="javascript:;">&lt;</a>
+<div class="p-scroll-wrap">
+<ul>
+<li><a class="curr" href="javascript:;" title="黑色"><img data-lazyload="http://img13.360buyimg.com/n9/jfs/t466/330/625372389/241906/fd96a251/54768a98N1cdf3e04.jpg" data-skuid="1399991418" height="25" width="25"/></a></li>
+</ul>
+</div>
+<a class="p-scroll-btn p-scroll-next" href="javascript:;">&gt;</a>
+</div>
+<div class="p-name">
+<a href="http://item.jd.com/1399991418.html" onclick="searchlog(1,1399991418,16,1,'','')" target="_blank">
+			2014年<font class="skcolor_ljg">AAA</font>秋冬季新款男商务休闲鞋TB411027 黑色 43<font class="adwords" id="AD_1399991418" style="color:#ff0000"></font>
+</a>
+</div>
+<div class="p-price">
+<em></em><strong class="J_1399991418" data-price="379.00">￥379.00</strong> <span id="p1399991418"></span>
+</div>
+<div class="extra">
+<span class="star"><span class="star-white"><span class="star-yellow h5"> </span></span></span>
+<a href="http://item.jd.com/1399991418.html#comments-list" id="comment-1399991418" onclick="searchlog(1,1399991418,16,3,'','')" target="_blank">已有0人评价</a>
+<span class="reputation" style="display:none;">(0%好评)</span>
+</div>
+<div class="stocklist">
+<span class="st33">湖南有货</span>
+</div>
+<div class="hide"><a data-stock="1399991418" data-stock-val="1" presale="0"></a></div>
+<div class="product-follow"><a class="btn-coll" href="javascript:;" id="coll1399991418" onclick="searchlog(1,1399991418,16,5,'','')"><s></s>加关注</a></div>
+<div class="shop-name" data-selfware="0" shop_id="24105"></div>
+</div>
+</li>
+<li sku="1400023960">
+<div class="lh-wrap">
+<div class="p-img">
+<a href="http://item.jd.com/1400023960.html" onclick="searchlog(1,1400023960,17,2,'','')" target="_blank">
+<img data-img="1" data-lazyload="http://img10.360buyimg.com/n7/jfs/t655/237/606646989/228717/4c5e40bb/54769024Na991da3e.jpg" height="220" width="220"/>
+</a>
+<div></div>
+</div>
+<div class="p-scroll">
+<a class="p-scroll-btn p-scroll-prev" href="javascript:;">&lt;</a>
+<div class="p-scroll-wrap">
+<ul>
+<li><a class="curr" href="javascript:;" title="黑色"><img data-lazyload="http://img10.360buyimg.com/n9/jfs/t655/237/606646989/228717/4c5e40bb/54769024Na991da3e.jpg" data-skuid="1400023960" height="25" width="25"/></a></li>
+</ul>
+</div>
+<a class="p-scroll-btn p-scroll-next" href="javascript:;">&gt;</a>
+</div>
+<div class="p-name">
+<a href="http://item.jd.com/1400023960.html" onclick="searchlog(1,1400023960,17,1,'','')" target="_blank">
+			2014年<font class="skcolor_ljg">AAA</font>秋冬季新款男商务休闲鞋B432008 黑色 43<font class="adwords" id="AD_1400023960" style="color:#ff0000"></font>
+</a>
+</div>
+<div class="p-price">
+<em></em><strong class="J_1400023960" data-price="399.00">￥399.00</strong> <span id="p1400023960"></span>
+</div>
+<div class="extra">
+<span class="star"><span class="star-white"><span class="star-yellow h5"> </span></span></span>
+<a href="http://item.jd.com/1400023960.html#comments-list" id="comment-1400023960" onclick="searchlog(1,1400023960,17,3,'','')" target="_blank">已有0人评价</a>
+<span class="reputation" style="display:none;">(0%好评)</span>
+</div>
+<div class="stocklist">
+<span class="st33">湖南有货</span>
+</div>
+<div class="hide"><a data-stock="1400023960" data-stock-val="1" presale="0"></a></div>
+<div class="product-follow"><a class="btn-coll" href="javascript:;" id="coll1400023960" onclick="searchlog(1,1400023960,17,5,'','')"><s></s>加关注</a></div>
+<div class="shop-name" data-selfware="0" shop_id="24105"></div>
+</div>
+</li>
+<li sku="1152587652">
+<div class="lh-wrap">
+<div class="p-img">
+<a href="http://item.jd.com/1152587652.html" onclick="searchlog(1,1152587652,18,2,'','')" target="_blank">
+<img data-img="1" data-lazyload="http://img12.360buyimg.com/n7/g17/M00/03/08/rBEbSlNzMi8IAAAAAANip1rs9aYAAA12gHnfZgAA2K_385.jpg" height="220" width="220"/>
+</a>
+<div></div>
+</div>
+<div class="p-scroll">
+<a class="p-scroll-btn p-scroll-prev" href="javascript:;">&lt;</a>
+<div class="p-scroll-wrap">
+<ul>
+<li><a class="curr" href="javascript:;" title="黑色"><img data-lazyload="http://img12.360buyimg.com/n9/g17/M00/03/08/rBEbSlNzMi8IAAAAAANip1rs9aYAAA12gHnfZgAA2K_385.jpg" data-skuid="1152587652" height="25" width="25"/></a></li>
+<li><a href="javascript:;" title="棕色"><img data-lazyload="http://img12.360buyimg.com/n9/g17/M00/03/08/rBEbSVNzMuUIAAAAAANSou4FPQIAAA17gMJ3_MAA1K6169.jpg" data-skuid="1152587662" height="25" width="25"/></a></li>
+</ul>
+</div>
+<a class="p-scroll-btn p-scroll-next" href="javascript:;">&gt;</a>
+</div>
+<div class="p-name">
+<a href="http://item.jd.com/1152587652.html" onclick="searchlog(1,1152587652,18,1,'','')" target="_blank">
+<font class="skcolor_ljg">AAA</font>真皮头层牛皮透气休闲商务套脚低帮鞋 圆头镂空时尚男士板鞋潮 黑色 39<font class="adwords" id="AD_1152587652" style="color:#ff0000"></font>
+</a>
+</div>
+<div class="p-price">
+<em></em><strong class="J_1152587652" data-price="379.05">￥379.05</strong> <span id="p1152587652"></span>
+</div>
+<div class="extra">
+<span class="star"><span class="star-white"><span class="star-yellow h5"> </span></span></span>
+<a href="http://item.jd.com/1152587652.html#comments-list" id="comment-1152587652" onclick="searchlog(1,1152587652,18,3,'','')" target="_blank">已有2人评价</a>
+<span class="reputation" style="display:none;">(100%好评)</span>
+</div>
+<div class="stocklist">
+<span class="st33">湖南有货</span>
+</div>
+<div class="hide"><a data-stock="1152587652" data-stock-val="1" presale="0"></a></div>
+<div class="product-follow"><a class="btn-coll" href="javascript:;" id="coll1152587652" onclick="searchlog(1,1152587652,18,5,'','')"><s></s>加关注</a></div>
+<div class="shop-name" data-selfware="0" shop_id="24105"></div>
+</div>
+</li>
+<li sku="1314968309">
+<div class="lh-wrap">
+<div class="p-img">
+<a href="http://item.jd.com/1314968309.html" onclick="searchlog(1,1314968309,19,2,'','')" target="_blank">
+<img data-img="1" data-lazyload="http://img14.360buyimg.com/n7/jfs/t340/94/735316808/27574/14802fc0/54222f67N7e8fa123.jpg" height="220" width="220"/>
+</a>
+<div></div>
+</div>
+<div class="p-scroll">
+<a class="p-scroll-btn p-scroll-prev" href="javascript:;">&lt;</a>
+<div class="p-scroll-wrap">
+<ul>
+<li><a class="curr" href="javascript:;" title="浅棕色"><img data-lazyload="http://img14.360buyimg.com/n9/jfs/t340/94/735316808/27574/14802fc0/54222f67N7e8fa123.jpg" data-skuid="1314968309" height="25" width="25"/></a></li>
+<li><a href="javascript:;" title="蓝色"><img data-lazyload="http://img14.360buyimg.com/n9/jfs/t304/34/776457996/28634/647b2080/54222f82N93b998ff.jpg" data-skuid="1314968314" height="25" width="25"/></a></li>
+<li><a href="javascript:;" title="灰色"><img data-lazyload="http://img14.360buyimg.com/n9/jfs/t445/175/539743201/27327/404c6d34/54222ebaN36a2caf6.jpg" data-skuid="1314968304" height="25" width="25"/></a></li>
+</ul>
+</div>
+<a class="p-scroll-btn p-scroll-next" href="javascript:;">&gt;</a>
+</div>
+<div class="p-name">
+<a href="http://item.jd.com/1314968309.html" onclick="searchlog(1,1314968309,19,1,'','')" target="_blank">
+<font class="skcolor_ljg">AAA</font>头层磨砂皮休闲商务潮流男鞋 浅棕色 43<font class="adwords" id="AD_1314968309" style="color:#ff0000"></font>
+</a>
+</div>
+<div class="p-price">
+<em></em><strong class="J_1314968309" data-price="299.00">￥299.00</strong> <span id="p1314968309"></span>
+</div>
+<div class="extra">
+<span class="star"><span class="star-white"><span class="star-yellow h5"> </span></span></span>
+<a href="http://item.jd.com/1314968309.html#comments-list" id="comment-1314968309" onclick="searchlog(1,1314968309,19,3,'','')" target="_blank">已有0人评价</a>
+<span class="reputation" style="display:none;">(0%好评)</span>
+</div>
+<div class="stocklist">
+<span class="st33">湖南有货</span>
+</div>
+<div class="hide"><a data-stock="1314968309" data-stock-val="1" presale="0"></a></div>
+<div class="product-follow"><a class="btn-coll" href="javascript:;" id="coll1314968309" onclick="searchlog(1,1314968309,19,5,'','')"><s></s>加关注</a></div>
+<div class="shop-name" data-selfware="0" shop_id="24105"></div>
+</div>
+</li>
+<li sku="1423929574">
+<div class="lh-wrap">
+<div class="p-img">
+<a href="http://item.jd.com/1423929574.html" onclick="searchlog(1,1423929574,20,2,'','')" target="_blank">
+<img data-img="1" data-lazyload="http://img14.360buyimg.com/n7/jfs/t688/298/853949739/183928/d701e185/548fd5beNc116fcaf.jpg" height="220" width="220"/>
+</a>
+<div></div>
+</div>
+<div class="p-scroll">
+<a class="p-scroll-btn p-scroll-prev" href="javascript:;">&lt;</a>
+<div class="p-scroll-wrap">
+<ul>
+<li><a class="curr" href="javascript:;" title="黑色"><img data-lazyload="http://img14.360buyimg.com/n9/jfs/t688/298/853949739/183928/d701e185/548fd5beNc116fcaf.jpg" data-skuid="1423929574" height="25" width="25"/></a></li>
+</ul>
+</div>
+<a class="p-scroll-btn p-scroll-next" href="javascript:;">&gt;</a>
+</div>
+<div class="p-name">
+<a href="http://item.jd.com/1423929574.html" onclick="searchlog(1,1423929574,20,1,'','')" target="_blank">
+			2014年<font class="skcolor_ljg">AAA</font>秋冬季新款男商务休闲鞋头层牛皮男鞋B402002 黑色 42<font class="adwords" id="AD_1423929574" style="color:#ff0000"></font>
+</a>
+</div>
+<div class="p-price">
+<em></em><strong class="J_1423929574" data-price="273.42">￥273.42</strong> <span id="p1423929574"></span>
+</div>
+<div class="extra">
+<span class="star"><span class="star-white"><span class="star-yellow h4"> </span></span></span>
+<a href="http://item.jd.com/1423929574.html#comments-list" id="comment-1423929574" onclick="searchlog(1,1423929574,20,3,'','')" target="_blank">已有1人评价</a>
+<span class="reputation" style="display:none;">(100%好评)</span>
+</div>
+<div class="stocklist">
+<span class="st33">湖南有货</span>
+</div>
+<div class="hide"><a data-stock="1423929574" data-stock-val="1" presale="0"></a></div>
+<div class="product-follow"><a class="btn-coll" href="javascript:;" id="coll1423929574" onclick="searchlog(1,1423929574,20,5,'','')"><s></s>加关注</a></div>
+<div class="shop-name" data-selfware="0" shop_id="24105"></div>
+</div>
+</li>
+<li sku="1025007769">
+<div class="lh-wrap">
+<div class="p-img">
+<a href="http://item.jd.com/1025007769.html" onclick="searchlog(1,1025007769,21,2,'','')" target="_blank">
+<img data-img="1" data-lazyload="http://img14.360buyimg.com/n7/g15/M07/01/19/rBEhWVHBN34IAAAAAATBs4FN9ygAAAWRQIrZTIABMHL812.jpg" height="220" width="220"/>
+</a>
+<div></div>
+</div>
+<div class="p-scroll">
+<a class="p-scroll-btn p-scroll-prev" href="javascript:;">&lt;</a>
+<div class="p-scroll-wrap">
+<ul>
+<li><a class="curr" href="javascript:;" title="浅棕色"><img data-lazyload="http://img14.360buyimg.com/n9/g15/M07/01/19/rBEhWVHBN34IAAAAAATBs4FN9ygAAAWRQIrZTIABMHL812.jpg" data-skuid="1025007769" height="25" width="25"/></a></li>
+<li><a href="javascript:;" title="绿色"><img data-lazyload="http://img11.360buyimg.com/n9/g15/M07/01/19/rBEhWVHBN2YIAAAAAARgLC2KN_IAAAWRQCRkDkABGBE559.jpg" data-skuid="1025007776" height="25" width="25"/></a></li>
+</ul>
+</div>
+<a class="p-scroll-btn p-scroll-next" href="javascript:;">&gt;</a>
+</div>
+<div class="p-name">
+<a href="http://item.jd.com/1025007769.html" onclick="searchlog(1,1025007769,21,1,'','')" target="_blank">
+			货到付款<font class="skcolor_ljg">AAA</font>男鞋皮鞋休闲鞋户外英伦套脚单鞋 户外鞋流行男鞋磨砂皮A918708 浅棕色 42<font class="adwords" id="AD_1025007769" style="color:#ff0000"></font>
+</a>
+</div>
+<div class="p-price">
+<em></em><strong class="J_1025007769" data-price="235.00">￥235.00</strong> <span id="p1025007769"></span>
+</div>
+<div class="extra">
+<span class="star"><span class="star-white"><span class="star-yellow h5"> </span></span></span>
+<a href="http://item.jd.com/1025007769.html#comments-list" id="comment-1025007769" onclick="searchlog(1,1025007769,21,3,'','')" target="_blank">已有13人评价</a>
+<span class="reputation" style="display:none;">(100%好评)</span>
+</div>
+<div class="stocklist">
+<span class="st33">湖南有货</span>
+</div>
+<div class="hide"><a data-stock="1025007769" data-stock-val="1" presale="0"></a></div>
+<div class="product-follow"><a class="btn-coll" href="javascript:;" id="coll1025007769" onclick="searchlog(1,1025007769,21,5,'','')"><s></s>加关注</a></div>
+<div class="shop-name" data-selfware="0" shop_id="24105"></div>
+</div>
+</li>
+<li sku="1388355593">
+<div class="lh-wrap">
+<div class="p-img">
+<a href="http://item.jd.com/1388355593.html" onclick="searchlog(1,1388355593,22,2,'','')" target="_blank">
+<img data-img="1" data-lazyload="http://img13.360buyimg.com/n7/jfs/t526/282/177230121/72365/9c2b8fab/546954f7N88a2f96c.jpg" height="220" width="220"/>
+</a>
+<div></div>
+</div>
+<div class="p-scroll">
+<a class="p-scroll-btn p-scroll-prev" href="javascript:;">&lt;</a>
+<div class="p-scroll-wrap">
+<ul>
+<li><a class="curr" href="javascript:;" title="黑色"><img data-lazyload="http://img13.360buyimg.com/n9/jfs/t526/282/177230121/72365/9c2b8fab/546954f7N88a2f96c.jpg" data-skuid="1388355593" height="25" width="25"/></a></li>
+</ul>
+</div>
+<a class="p-scroll-btn p-scroll-next" href="javascript:;">&gt;</a>
+</div>
+<div class="p-name">
+<a href="http://item.jd.com/1388355593.html" onclick="searchlog(1,1388355593,22,1,'','')" target="_blank">
+			2014年<font class="skcolor_ljg">AAA</font>秋冬季新品男日常休闲鞋男头层牛皮B404008 黑色 43<font class="adwords" id="AD_1388355593" style="color:#ff0000"></font>
+</a>
+</div>
+<div class="p-price">
+<em></em><strong class="J_1388355593" data-price="329.00">￥329.00</strong> <span id="p1388355593"></span>
+</div>
+<div class="extra">
+<span class="star"><span class="star-white"><span class="star-yellow h5"> </span></span></span>
+<a href="http://item.jd.com/1388355593.html#comments-list" id="comment-1388355593" onclick="searchlog(1,1388355593,22,3,'','')" target="_blank">已有0人评价</a>
+<span class="reputation" style="display:none;">(0%好评)</span>
+</div>
+<div class="stocklist">
+<span class="st33">湖南有货</span>
+</div>
+<div class="hide"><a data-stock="1388355593" data-stock-val="1" presale="0"></a></div>
+<div class="product-follow"><a class="btn-coll" href="javascript:;" id="coll1388355593" onclick="searchlog(1,1388355593,22,5,'','')"><s></s>加关注</a></div>
+<div class="shop-name" data-selfware="0" shop_id="24105"></div>
+</div>
+</li>
+<li sku="1024801565">
+<div class="lh-wrap">
+<div class="p-img">
+<a href="http://item.jd.com/1024801565.html" onclick="searchlog(1,1024801565,23,2,'','')" target="_blank">
+<img data-img="1" data-lazyload="http://img10.360buyimg.com/n7/g13/M09/01/0C/rBEhU1G9ebUIAAAAAATkdyznMXgAAARYgBo4N4ABOSP582.jpg" height="220" width="220"/>
+</a>
+<div></div>
+</div>
+<div class="p-scroll">
+<a class="p-scroll-btn p-scroll-prev" href="javascript:;">&lt;</a>
+<div class="p-scroll-wrap">
+<ul>
+<li><a class="curr" href="javascript:;" title="暗棕色"><img data-lazyload="http://img10.360buyimg.com/n9/g13/M09/01/0C/rBEhU1G9ebUIAAAAAATkdyznMXgAAARYgBo4N4ABOSP582.jpg" data-skuid="1024801565" height="25" width="25"/></a></li>
+<li><a href="javascript:;" title="棕色"><img data-lazyload="http://img12.360buyimg.com/n9/g15/M02/01/0D/rBEhWlG9eaEIAAAAAATSlIgjQDEAAARrAGUjs4ABNKs072.jpg" data-skuid="1024801672" height="25" width="25"/></a></li>
+</ul>
+</div>
+<a class="p-scroll-btn p-scroll-next" href="javascript:;">&gt;</a>
+</div>
+<div class="p-name">
+<a href="http://item.jd.com/1024801565.html" onclick="searchlog(1,1024801565,23,1,'','')" target="_blank">
+			货到付款<font class="skcolor_ljg">AAA</font>男鞋2014新款专柜正品真皮头层牛皮 舒适套脚户外休闲潮流男鞋A918702 暗棕色 38<font class="adwords" id="AD_1024801565" style="color:#ff0000"></font>
+</a>
+</div>
+<div class="p-price">
+<em></em><strong class="J_1024801565" data-price="226.10">￥226.10</strong> <span id="p1024801565"></span>
+</div>
+<div class="extra">
+<span class="star"><span class="star-white"><span class="star-yellow h5"> </span></span></span>
+<a href="http://item.jd.com/1024801565.html#comments-list" id="comment-1024801565" onclick="searchlog(1,1024801565,23,3,'','')" target="_blank">已有8人评价</a>
+<span class="reputation" style="display:none;">(100%好评)</span>
+</div>
+<div class="stocklist">
+<span class="st33">湖南有货</span>
+</div>
+<div class="hide"><a data-stock="1024801565" data-stock-val="1" presale="0"></a></div>
+<div class="product-follow"><a class="btn-coll" href="javascript:;" id="coll1024801565" onclick="searchlog(1,1024801565,23,5,'','')"><s></s>加关注</a></div>
+<div class="shop-name" data-selfware="0" shop_id="24105"></div>
+</div>
+</li>
+<li sku="1410418766">
+<div class="lh-wrap">
+<div class="p-img">
+<a href="http://item.jd.com/1410418766.html" onclick="searchlog(1,1410418766,24,2,'','')" target="_blank">
+<img data-img="1" data-lazyload="http://img11.360buyimg.com/n7/jfs/t571/191/695741755/106681/e048e688/547fbd1bNa659fe8f.jpg" height="220" width="220"/>
+</a>
+<div></div>
+</div>
+<div class="p-scroll">
+<a class="p-scroll-btn p-scroll-prev" href="javascript:;">&lt;</a>
+<div class="p-scroll-wrap">
+<ul>
+<li><a class="curr" href="javascript:;" title="黑色"><img data-lazyload="http://img11.360buyimg.com/n9/jfs/t571/191/695741755/106681/e048e688/547fbd1bNa659fe8f.jpg" data-skuid="1410418766" height="25" width="25"/></a></li>
+<li><a href="javascript:;" title="棕色"><img data-lazyload="http://img12.360buyimg.com/n9/jfs/t529/156/728999712/79596/3779cfdd/547fbd32Nf1f8cab5.jpg" data-skuid="1410418772" height="25" width="25"/></a></li>
+</ul>
+</div>
+<a class="p-scroll-btn p-scroll-next" href="javascript:;">&gt;</a>
+</div>
+<div class="p-name">
+<a href="http://item.jd.com/1410418766.html" onclick="searchlog(1,1410418766,24,1,'','')" target="_blank">
+			2014年<font class="skcolor_ljg">AAA</font>秋冬季新款男休闲鞋TM407001 黑色 43<font class="adwords" id="AD_1410418766" style="color:#ff0000"></font>
+</a>
+</div>
+<div class="p-price">
+<em></em><strong class="J_1410418766" data-price="329.00">￥329.00</strong> <span id="p1410418766"></span>
+</div>
+<div class="extra">
+<span class="star"><span class="star-white"><span class="star-yellow h5"> </span></span></span>
+<a href="http://item.jd.com/1410418766.html#comments-list" id="comment-1410418766" onclick="searchlog(1,1410418766,24,3,'','')" target="_blank">已有0人评价</a>
+<span class="reputation" style="display:none;">(0%好评)</span>
+</div>
+<div class="stocklist">
+<span class="st33">湖南有货</span>
+</div>
+<div class="hide"><a data-stock="1410418766" data-stock-val="1" presale="0"></a></div>
+<div class="product-follow"><a class="btn-coll" href="javascript:;" id="coll1410418766" onclick="searchlog(1,1410418766,24,5,'','')"><s></s>加关注</a></div>
+<div class="shop-name" data-selfware="0" shop_id="24105"></div>
+</div>
+</li>
+<li sku="1423928498">
+<div class="lh-wrap">
+<div class="p-img">
+<a href="http://item.jd.com/1423928498.html" onclick="searchlog(1,1423928498,25,2,'','')" target="_blank">
+<img data-img="1" data-lazyload="http://img13.360buyimg.com/n7/jfs/t553/70/831263765/195605/1a983d87/548fd5bfN6a5d3bb9.jpg" height="220" width="220"/>
+</a>
+<div></div>
+</div>
+<div class="p-scroll">
+<a class="p-scroll-btn p-scroll-prev" href="javascript:;">&lt;</a>
+<div class="p-scroll-wrap">
+<ul>
+<li><a class="curr" href="javascript:;" title="黑色"><img data-lazyload="http://img13.360buyimg.com/n9/jfs/t553/70/831263765/195605/1a983d87/548fd5bfN6a5d3bb9.jpg" data-skuid="1423928498" height="25" width="25"/></a></li>
+</ul>
+</div>
+<a class="p-scroll-btn p-scroll-next" href="javascript:;">&gt;</a>
+</div>
+<div class="p-name">
+<a href="http://item.jd.com/1423928498.html" onclick="searchlog(1,1423928498,25,1,'','')" target="_blank">
+			2014年<font class="skcolor_ljg">AAA</font>秋冬季新款男鞋男头层牛皮休闲鞋B402001 黑色 42<font class="adwords" id="AD_1423928498" style="color:#ff0000"></font>
+</a>
+</div>
+<div class="p-price">
+<em></em><strong class="J_1423928498" data-price="273.42">￥273.42</strong> <span id="p1423928498"></span>
+</div>
+<div class="extra">
+<span class="star"><span class="star-white"><span class="star-yellow h4"> </span></span></span>
+<a href="http://item.jd.com/1423928498.html#comments-list" id="comment-1423928498" onclick="searchlog(1,1423928498,25,3,'','')" target="_blank">已有1人评价</a>
+<span class="reputation" style="display:none;">(100%好评)</span>
+</div>
+<div class="stocklist">
+<span class="st33">湖南有货</span>
+</div>
+<div class="hide"><a data-stock="1423928498" data-stock-val="1" presale="0"></a></div>
+<div class="product-follow"><a class="btn-coll" href="javascript:;" id="coll1423928498" onclick="searchlog(1,1423928498,25,5,'','')"><s></s>加关注</a></div>
+<div class="shop-name" data-selfware="0" shop_id="24105"></div>
+</div>
+</li>
+<li sku="1399977483">
+<div class="lh-wrap">
+<div class="p-img">
+<a href="http://item.jd.com/1399977483.html" onclick="searchlog(1,1399977483,26,2,'','')" target="_blank">
+<img data-img="1" data-lazyload="http://img13.360buyimg.com/n7/jfs/t511/212/607318090/239523/adb6f8dc/547687aaN19bec566.jpg" height="220" width="220"/>
+</a>
+<div></div>
+</div>
+<div class="p-scroll">
+<a class="p-scroll-btn p-scroll-prev" href="javascript:;">&lt;</a>
+<div class="p-scroll-wrap">
+<ul>
+<li><a class="curr" href="javascript:;" title="黑色"><img data-lazyload="http://img13.360buyimg.com/n9/jfs/t511/212/607318090/239523/adb6f8dc/547687aaN19bec566.jpg" data-skuid="1399977483" height="25" width="25"/></a></li>
+<li><a href="javascript:;" title="黄棕色"><img data-lazyload="http://img14.360buyimg.com/n9/jfs/t613/306/611384665/246746/f80fdc09/547687b0Nad1d0986.jpg" data-skuid="1399977489" height="25" width="25"/></a></li>
+</ul>
+</div>
+<a class="p-scroll-btn p-scroll-next" href="javascript:;">&gt;</a>
+</div>
+<div class="p-name">
+<a href="http://item.jd.com/1399977483.html" onclick="searchlog(1,1399977483,26,1,'','')" target="_blank">
+			2014年<font class="skcolor_ljg">AAA</font>秋冬季新款男商务休闲鞋B433004 黑色 43<font class="adwords" id="AD_1399977483" style="color:#ff0000"></font>
+</a>
+</div>
+<div class="p-price">
+<em></em><strong class="J_1399977483" data-price="309.00">￥309.00</strong> <span id="p1399977483"></span>
+</div>
+<div class="extra">
+<span class="star"><span class="star-white"><span class="star-yellow h5"> </span></span></span>
+<a href="http://item.jd.com/1399977483.html#comments-list" id="comment-1399977483" onclick="searchlog(1,1399977483,26,3,'','')" target="_blank">已有0人评价</a>
+<span class="reputation" style="display:none;">(0%好评)</span>
+</div>
+<div class="stocklist">
+<span class="st33">湖南有货</span>
+</div>
+<div class="hide"><a data-stock="1399977483" data-stock-val="1" presale="0"></a></div>
+<div class="product-follow"><a class="btn-coll" href="javascript:;" id="coll1399977483" onclick="searchlog(1,1399977483,26,5,'','')"><s></s>加关注</a></div>
+<div class="shop-name" data-selfware="0" shop_id="24105"></div>
+</div>
+</li>
+<li sku="1074230759">
+<div class="lh-wrap">
+<div class="p-img">
+<a href="http://item.jd.com/1074230759.html" onclick="searchlog(1,1074230759,27,2,'','')" target="_blank">
+<img data-img="1" data-lazyload="http://img14.360buyimg.com/n7/g14/M01/0B/1E/rBEhVlLNAsMIAAAAAAMQ7wecAkAAAH02wBiB1MAAxEH775.jpg" height="220" width="220"/>
+</a>
+<div></div>
+</div>
+<div class="p-scroll">
+<a class="p-scroll-btn p-scroll-prev" href="javascript:;">&lt;</a>
+<div class="p-scroll-wrap">
+<ul>
+<li><a class="curr" href="javascript:;" title="黑色"><img data-lazyload="http://img14.360buyimg.com/n9/g14/M01/0B/1E/rBEhVlLNAsMIAAAAAAMQ7wecAkAAAH02wBiB1MAAxEH775.jpg" data-skuid="1074230759" height="25" width="25"/></a></li>
+<li><a href="javascript:;" title="棕色"><img data-lazyload="http://img10.360buyimg.com/n9/g14/M01/0B/1E/rBEhVVLNAssIAAAAAAMluil4gEcAAH02wHkLhQAAyXS460.jpg" data-skuid="1074230765" height="25" width="25"/></a></li>
+</ul>
+</div>
+<a class="p-scroll-btn p-scroll-next" href="javascript:;">&gt;</a>
+</div>
+<div class="p-name">
+<a href="http://item.jd.com/1074230759.html" onclick="searchlog(1,1074230759,27,1,'','')" target="_blank">
+<font class="skcolor_ljg">AAA</font>男鞋2014新款潮流时尚休闲男鞋 石纹圆头套脚休闲鞋N45495601 黑色 43<font class="adwords" id="AD_1074230759" style="color:#ff0000"></font>
+</a>
+</div>
+<div class="p-price">
+<em></em><strong class="J_1074230759" data-price="311.60">￥311.60</strong> <span id="p1074230759"></span>
+</div>
+<div class="extra">
+<span class="star"><span class="star-white"><span class="star-yellow h5"> </span></span></span>
+<a href="http://item.jd.com/1074230759.html#comments-list" id="comment-1074230759" onclick="searchlog(1,1074230759,27,3,'','')" target="_blank">已有0人评价</a>
+<span class="reputation" style="display:none;">(0%好评)</span>
+</div>
+<div class="stocklist">
+<span class="st33">湖南有货</span>
+</div>
+<div class="hide"><a data-stock="1074230759" data-stock-val="1" presale="0"></a></div>
+<div class="product-follow"><a class="btn-coll" href="javascript:;" id="coll1074230759" onclick="searchlog(1,1074230759,27,5,'','')"><s></s>加关注</a></div>
+<div class="shop-name" data-selfware="0" shop_id="24105"></div>
+</div>
+</li>
+<li sku="1400026515">
+<div class="lh-wrap">
+<div class="p-img">
+<a href="http://item.jd.com/1400026515.html" onclick="searchlog(1,1400026515,28,2,'','')" target="_blank">
+<img data-img="1" data-lazyload="http://img10.360buyimg.com/n7/jfs/t544/254/599815880/206001/65758a2d/547690b8N278da871.jpg" height="220" width="220"/>
+</a>
+<div></div>
+</div>
+<div class="p-scroll">
+<a class="p-scroll-btn p-scroll-prev" href="javascript:;">&lt;</a>
+<div class="p-scroll-wrap">
+<ul>
+<li><a class="curr" href="javascript:;" title="黑色"><img data-lazyload="http://img10.360buyimg.com/n9/jfs/t544/254/599815880/206001/65758a2d/547690b8N278da871.jpg" data-skuid="1400026515" height="25" width="25"/></a></li>
+</ul>
+</div>
+<a class="p-scroll-btn p-scroll-next" href="javascript:;">&gt;</a>
+</div>
+<div class="p-name">
+<a href="http://item.jd.com/1400026515.html" onclick="searchlog(1,1400026515,28,1,'','')" target="_blank">
+			2014年<font class="skcolor_ljg">AAA</font>秋冬季新款男商务休闲鞋TB415005 黑色 部分缺货需要延迟3-5天发货<font class="adwords" id="AD_1400026515" style="color:#ff0000"></font>
+</a>
+</div>
+<div class="p-price">
+<em></em><strong class="J_1400026515" data-price="369.00">￥369.00</strong> <span id="p1400026515"></span>
+</div>
+<div class="extra">
+<span class="star"><span class="star-white"><span class="star-yellow h5"> </span></span></span>
+<a href="http://item.jd.com/1400026515.html#comments-list" id="comment-1400026515" onclick="searchlog(1,1400026515,28,3,'','')" target="_blank">已有0人评价</a>
+<span class="reputation" style="display:none;">(0%好评)</span>
+</div>
+<div class="stocklist">
+<span class="st33">湖南有货</span>
+</div>
+<div class="hide"><a data-stock="1400026515" data-stock-val="1" presale="0"></a></div>
+<div class="product-follow"><a class="btn-coll" href="javascript:;" id="coll1400026515" onclick="searchlog(1,1400026515,28,5,'','')"><s></s>加关注</a></div>
+<div class="shop-name" data-selfware="0" shop_id="24105"></div>
+</div>
+</li>
+<li sku="1019374621">
+<div class="lh-wrap">
+<div class="p-img">
+<a href="http://item.jd.com/1019374621.html" onclick="searchlog(1,1019374621,29,2,'','')" target="_blank">
+<img data-img="1" data-lazyload="http://img11.360buyimg.com/n7/g13/M04/12/04/rBEhVFJmFBgIAAAAAAKr-mZLh0UAAEcAgFOdbcAAqwS404.jpg" height="220" width="220"/>
+</a>
+<div></div>
+</div>
+<div class="p-scroll">
+<a class="p-scroll-btn p-scroll-prev" href="javascript:;">&lt;</a>
+<div class="p-scroll-wrap">
+<ul>
+<li><a class="curr" href="javascript:;" title="黑色"><img data-lazyload="http://img11.360buyimg.com/n9/g13/M04/12/04/rBEhVFJmFBgIAAAAAAKr-mZLh0UAAEcAgFOdbcAAqwS404.jpg" data-skuid="1019374621" height="25" width="25"/></a></li>
+</ul>
+</div>
+<a class="p-scroll-btn p-scroll-next" href="javascript:;">&gt;</a>
+</div>
+<div class="p-name">
+<a href="http://item.jd.com/1019374621.html" onclick="searchlog(1,1019374621,29,1,'','')" target="_blank">
+<font class="skcolor_ljg">AAA</font> 2013新款男式鞋潮专柜正品头层牛皮皮鞋系带男单鞋B2997097 黑色 38<font class="adwords" id="AD_1019374621" style="color:#ff0000"></font>
+</a>
+</div>
+<div class="p-price">
+<em></em><strong class="J_1019374621" data-price="274.55">￥274.55</strong> <span id="p1019374621"></span>
+</div>
+<div class="extra">
+<span class="star"><span class="star-white"><span class="star-yellow h5"> </span></span></span>
+<a href="http://item.jd.com/1019374621.html#comments-list" id="comment-1019374621" onclick="searchlog(1,1019374621,29,3,'','')" target="_blank">已有2人评价</a>
+<span class="reputation" style="display:none;">(100%好评)</span>
+</div>
+<div class="stocklist">
+<span class="st33">湖南有货</span>
+</div>
+<div class="hide"><a data-stock="1019374621" data-stock-val="1" presale="0"></a></div>
+<div class="product-follow"><a class="btn-coll" href="javascript:;" id="coll1019374621" onclick="searchlog(1,1019374621,29,5,'','')"><s></s>加关注</a></div>
+<div class="shop-name" data-selfware="0" shop_id="24105"></div>
+</div>
+</li>
+<li data-log-id="1428287055.73215" data-start="30" done="1" id="scroll_loading" style="border-bottom:none;"><div><b></b>正在加载中，请稍候...</div></li></ul></div>
+<div class="m clearfix" id="bottom_pager">
+<div class="pagin fr" clstag="search|keycount|search|pre-page2" id="pagin-btm">
+<span class="prev-disabled">上一页<b></b></span>
+<a class="current" href="javascript:void(0)">1</a>
+<a href="search?keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;sttr=1&amp;ev=exbrand_AAA%40&amp;page=2" onclick="searchlog(1, 2, 0, 56);">2</a>
+<a href="search?keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;sttr=1&amp;ev=exbrand_AAA%40&amp;page=3" onclick="searchlog(1, 3, 0, 56);">3</a>
+<a class="next" href="search?keyword=aaa&amp;enc=utf-8&amp;qrst=1&amp;rt=1&amp;stop=1&amp;sttr=1&amp;ev=exbrand_AAA%40&amp;page=2" onclick="searchlog(1, 2, 0, 56);">下一页<b></b></a>
+<span class="page-skip"><em>  共3页    到第</em><input class="jumpto" onkeydown="javascript:if(event.keyCode==13){jumpto();return false;}" type="text" value="1"/><em>页</em><a class="btn-skipsearch" onclick="jumpto()" value="确定">确定</a></span>
+</div>
+</div>
+<div class="shop-choice hide" id="shop-choice" reco_id="2"></div>
+<div class="svote m"></div>
+<div class="m" id="re-search">
+<dl>
+<dt>重新搜索</dt>
+<dd>
+<input class="text" id="key-re-search" onkeydown="javascript:if(event.keyCode==13){search('key-re-search');return false;}" type="text" value="aaa"/>
+<input class="button" id="btn-re-search" onclick="search('key-re-search')" type="button" value="搜 索"/>
+</dd>
+</dl>
+</div>
+<script>
+LogParm = {
+	result_count:'74',
+	ab:'0100',
+	front_cost:'63',
+	back_cost:'31',
+	ip:'3.85',
+	cid:'',
+	psort:'',
+	page:'1',
+	ekey:'',
+	ev:'1',
+	rec_type:'0',
+	rel_cat2:'11730',
+	rel_cat3:'6907,6908',
+	log_id:'1428287055.73215',
+	expand:'double=1',
+	sig:'SSVvlUuZ0bz2lU+UFAKTVk2tavj9GpK/PTqeii6w7suG+0HbVZcwRw0YArrbYrivk6QNLPAJ0WshUgkpiXwDjerf+3rpqMZynYmbIrGdEmiOOgNnzpl/4D7DDWheDNaVcTO5xEuC50MYr5KP6VrpnGIBRVy8iUOgUJ6JKQrekgg='
+};
+SEARCH.search_type = '商品';
+SEARCH.base_url = 'keyword=aaa&enc=utf-8&qrst=1&rt=1&stop=1&sttr=1&ev=exbrand_AAA%40&click=';
+SEARCH.psort = '';
+SEARCH.click = '';
+</script>
+</div>
+<span class="clr"></span>
+</div>
+<div class="w"> <div id="product-track"> <div class="right"> <div class="m m2" data-widget="tabs" id="maybe-like"> <div class="mt"> <h2>根据浏览猜你喜欢</h2> <div class="extra"> </div> </div> <div class="mc"> <div class="iloading">正在加载中，请稍候...</div> </div> </div><!--maybe-like--> </div><!-- right --> <div class="left"> <div class="m m2" id="recent-view-track"> <div class="mt"> <h2>最近浏览</h2> </div> <div class="mc"> <div class="iloading">正在加载中，请稍候...</div> </div> </div><!--recent-view-track end--> </div><!-- left --> <span class="clr"></span> </div> </div>
+<div class="w" id="xjd_bottom"></div>
+<div class="Tip360 w260" id="Collect_Tip"></div>
+<div class="w">
+<div id="service-2013">
+<dl class="fore1">
+<dt><b></b><strong>购物指南</strong></dt>
+<dd>
+<div><a href="http://help.jd.com/help/question-56.html" rel="nofollow" target="_blank">购物流程</a></div>
+<div><a href="http://help.jd.com/help/question-57.html" rel="nofollow" target="_blank">会员介绍</a></div>
+<div><a href="http://help.jd.com/help/question-181.html" rel="nofollow" target="_blank">团购/机票</a></div>
+<div><a href="http://help.jd.com/help/question-61.html" rel="nofollow" target="_blank">常见问题</a></div>
+<div><a href="http://help.jd.com/help/question-63.html" rel="nofollow" target="_blank">大家电</a></div>
+<div><a href="http://help.jd.com/index.html" rel="nofollow" target="_blank">联系客服</a></div>
+</dd>
+</dl>
+<dl class="fore2">
+<dt><b></b><strong>配送方式</strong></dt>
+<dd>
+<div><a href="http://help.jd.com/help/question-64.html" rel="nofollow" target="_blank">上门自提</a></div>
+<div><a href="http://help.jd.com/help/question-360.html" rel="nofollow" target="_blank">211限时达</a></div>
+<div><a href="http://psfw.jd.com/help/distribution-768.html" rel="nofollow" target="_blank">配送服务查询</a></div>
+<div><a href="http://help.jd.com/help/question-892.html#help2215" rel="nofollow" target="_blank">配送费收取标准</a></div>
+<div><a href="http://market.jd.com/giftcard/index.html#one5" rel="nofollow" target="_blank">如何送礼</a></div>
+<div><a href="http://en.jd.com/chinese.html" target="_blank">海外配送</a></div>
+</dd>
+</dl>
+<dl class="fore3">
+<dt><b></b><strong>支付方式</strong></dt>
+<dd>
+<div><a href="http://help.jd.com/help/question-67.html" rel="nofollow" target="_blank">货到付款</a></div>
+<div><a href="http://help.jd.com/help/question-68.html" rel="nofollow" target="_blank">在线支付</a></div>
+<div><a href="http://help.jd.com/help/question-71.html" rel="nofollow" target="_blank">分期付款</a></div>
+<div><a href="http://help.jd.com/help/question-69.html" rel="nofollow" target="_blank">邮局汇款</a></div>
+<div><a href="http://help.jd.com/help/question-70.html" rel="nofollow" target="_blank">公司转账</a></div>
+</dd>
+</dl>
+<dl class="fore4">
+<dt><b></b><strong>售后服务</strong></dt>
+<dd>
+<div><a href="http://myjd.jd.com/afs/help/afshelp.action" rel="nofollow" target="_blank">售后政策</a></div>
+<div><a href="http://help.jd.com/help/question-99.html" rel="nofollow" target="_blank">价格保护</a></div>
+<div><a href="http://help.jd.com/help/question-100.html" rel="nofollow" target="_blank">退款说明</a></div>
+<div><a href="http://myjd.jd.com/repair/repairs.action" rel="nofollow" target="_blank">返修/退换货</a></div>
+<div><a href="http://help.jd.com/help/question-881.html" rel="nofollow" target="_blank">取消订单</a></div>
+</dd>
+</dl>
+<dl class="fore5">
+<dt><b></b><strong>特色服务</strong></dt>
+<dd>
+<div><a href="http://help.jd.com/help/question-79.html" target="_blank">夺宝岛</a></div>
+<div><a href="http://help.jd.com/help/question-86.html" target="_blank">DIY装机</a></div>
+<div><a href="http://fuwu.jd.com/" rel="nofollow" target="_blank">延保服务</a></div>
+<div><a href="http://giftcard.jd.com/market/index.action" rel="nofollow" target="_blank">京东E卡</a></div>
+<div><a href="http://help.jd.com/help/question-91.html" rel="nofollow" target="_blank">节能补贴</a></div>
+<div><a href="http://mobile.jd.com/" rel="nofollow" target="_blank">京东通信</a></div>
+</dd>
+</dl>
+<span class="clr"></span>
+</div>
+</div><!-- service end --><div class="w">
+<div id="footer-2013">
+<div class="links"><a href="http://www.jd.com/intro/about.aspx" rel="nofollow" target="_blank">关于我们</a>|<a href="http://www.jd.com/contact/" rel="nofollow" target="_blank">联系我们</a>|<a href="http://www.jd.com/contact/joinin.aspx" rel="nofollow" target="_blank">商家入驻</a>|<a href="http://jzt.jd.com" rel="nofollow" target="_blank">营销中心</a>|<a href="http://app.jd.com/" rel="nofollow" target="_blank">手机京东</a>|<a href="http://club.jd.com/links.aspx" target="_blank">友情链接</a>|<a href="http://media.jd.com/" target="_blank">销售联盟</a>|<a href="http://club.jd.com/" target="_blank">京东社区</a>|<a href="http://gongyi.jd.com" target="_blank">京东公益</a></div>
+<div class="copyright">北京市公安局朝阳分局备案编号110105014669  |  京ICP证070359号  |  <a href="http://img14.360buyimg.com/da/jfs/t256/349/769670066/270505/3b03e0bb/53f16c24N7c04d9e9.jpg" target="_blank">互联网药品信息服务资格证编号(京)-经营性-2014-0008</a><br><a href="http://misc.360buyimg.com/skin/df/i/com/f_music.jpg" rel="nofollow" target="_blank">音像制品经营许可证苏宿批005号</a>  |  出版物经营许可证编号新出发(苏)批字第N-012号  |  互联网出版许可证编号新出网证(京)字150号<br><a href="http://misc.360buyimg.com/wz/wlwhjyxkz.jpg" target="_blank">网络文化经营许可证京网文[2014]2148-348号</a>  文明办网文明上网举报电话：4006561155  Copyright © 2004-2015  京东JD.com 版权所有<br/>京东旗下网站：<a href="http://en.jd.com/" target="_blank">English Site</a></br></br></div>
+<div class="authentication"><a href="http://www.hd315.gov.cn/beian/view.asp?bianhao=010202007080200026" rel="nofollow" target="_blank"><img alt="经营性网站备案中心" data-lazyload="http://img10.360buyimg.com/da/20110329/108_40_zZOKnl.gif" height="40" width="108"/></a><script type="text/JavaScript">function CNNIC_change(eleId){var str= document.getElementById(eleId).href;var str1 =str.substring(0,(str.length-6));str1+=CNNIC_RndNum(6); document.getElementById(eleId).href=str1;}function CNNIC_RndNum(k){var rnd=""; for (var i=0;i < k;i++) rnd+=Math.floor(Math.random()*10); return rnd;}</script><a href="https://ss.knet.cn/verifyseal.dll?sn=2008070300100000031&amp;ct=df&amp;pa=294005" id="urlknet" rel="nofollow" tabindex="-1" target="_blank"><img alt="可信网站" border="true" data-lazyload="http://img11.360buyimg.com/da/g8/M03/0C/0E/rBEHaFCFC5QIAAAAAAASVQX9RAYAACb2wHUV1kAABJt760.gif" height="40" name="CNNIC_seal" onclick="CNNIC_change('urlknet')" oncontextmenu="return false;" width="108"/></a><a href="http://www.bj.cyberpolice.cn/index.do" rel="nofollow" target="_blank"><img alt="朝阳网络警察" data-lazyload="http://img12.360buyimg.com/da/g5/M02/0D/17/rBEIDE_nzcIIAAAAAAB30mYXo5QAACrhACj22IAAHfq378.png" height="40" width="108"/></a><a href="https://search.szfw.org/cert/l/CX20120111001803001836" rel="nofollow" target="_blank"><img data-lazyload="http://img13.360buyimg.com/da/20120221/112_40_WvArIl.png" height="40" width="112"/></a></div>
+</div>
+</div><!-- footer end --><script charset="gb2312" src="http://misc.360buyimg.com/lib/js/2012/lib-v1.js?t=20130228" type="text/javascript"></script>
+<script src="script/search_main.js?165.js" type="text/javascript"></script>
+<script type="text/javascript">SEARCH.init(1,3,74,'',1,0,6907,'<a class="research" href="javascript:surveyShow();"><b></b>意见反馈</a>',0)</script><script>SEARCH.get_adv_info(9,"1","","_2","_2");</script><script async="" src="http://misc.360buyimg.com/product/js/2012/footprint.js" type="text/javascript"></script>
+<script type="text/javascript">
+(function() { var ja = document.createElement('script'); ja.type = 'text/javascript'; ja.async = true;
+ ja.src = ('https:' == document.location.protocol ? 'https://wlssl' : 'http://wl') + '.jd.com/wl.js';
+ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ja, s); })();
+</script>
+</body>
+</html>
+
+None

@@ -9,10 +9,19 @@ fun	test3.py	/^def fun():$/;"	f	language:Python	access:public
 funa	test2.py	/^def funa():$/;"	f	language:Python	access:public
 funb	test2.py	/^def funb():$/;"	f	language:Python	access:public
 func	test4.py	/^def func():$/;"	f	language:Python	access:public
+loop	thread_lock.py	/^def loop(nloop,nsec,lock):$/;"	f	language:Python	access:public
+loop	threading_sleep.py	/^def loop(nloop,nsec):$/;"	f	language:Python	access:public
+loop0	thread_sleep.py	/^def loop0():$/;"	f	language:Python	access:public
+loop1	thread_sleep.py	/^def loop1():$/;"	f	language:Python	access:public
 m	test4.py	/^m = func()$/;"	v	language:Python
+main	thread_lock.py	/^def main():$/;"	f	language:Python	access:public
+main	thread_sleep.py	/^def main():$/;"	f	language:Python	access:public
+main	threading_sleep.py	/^def main():$/;"	f	language:Python	access:public
 mlock	test3.py	/^mlock = threading.RLock() #锁对象$/;"	v	language:Python
 num	test.py	/^num = 0$/;"	v	language:Python
 num	test3.py	/^num=0$/;"	v	language:Python
+sleeptime	thread_lock.py	/^sleeptime = [4,2]$/;"	v	language:Python
+sleeptime	threading_sleep.py	/^sleeptime = [4,2]$/;"	v	language:Python
 ta	test2.py	/^ta = threading.Thread(target=funa)$/;"	v	language:Python
 tb	test2.py	/^tb = threading.Thread(target=funb)$/;"	v	language:Python
 test	test.py	/^def test():$/;"	f	language:Python	access:public

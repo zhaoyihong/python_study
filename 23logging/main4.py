@@ -10,7 +10,7 @@ import logging
 import logging.handlers
 
 
-fh = logging.handlers.TimedRotatingFileHandler('timelog','S',1,10)
+fh = logging.handlers.TimedRotatingFileHandler('timelog','M',1,10)
 formatter = logging.Formatter('[%(asctime)s] %(name)s - %(levelname)s - %(pathname)s:%(lineno)d - %(message)s','%a,%Y-%m-%d %H:%M:%S')
 fh.setFormatter(formatter)
 

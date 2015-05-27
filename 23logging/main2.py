@@ -11,5 +11,3 @@ flogger = logging.getLogger('f')
 clogger.info('hello console')
 flogger.info('hello file')
 
-
-
